@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+cd data
+curl -O https://data.stadt-zuerich.ch/dataset/mrz_drenowatz_sammlung/download/MRZ_Kunstwerke.json
+curl -O https://data.stadt-zuerich.ch/dataset/mrz_drenowatz_sammlung/download/MRZ_Personen.json
+curl -O https://data.stadt-zuerich.ch/dataset/mrz_drenowatz_sammlung/download/MRZ_PMs.json
+curl -O https://data.stadt-zuerich.ch/dataset/mrz_drenowatz_sammlung/download/MRZ_Provenienzen.json
+if [ ! -f bilder_drenowatz.zip]; then
+    curl -O https://data.stadt-zuerich.ch/dataset/mrz_drenowatz_sammlung/download/bilder_drenowatz.zip
+fi
+unzip bilder_drenowatz.zip
