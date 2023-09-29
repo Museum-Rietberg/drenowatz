@@ -1,5 +1,28 @@
 # Collection Drenowatz
 
+## Data processing
+
+### Generate overview data and thumbnails
+
+To generate thumbnails, `libvips` is used. Install the package, e.g. for Debian-based systems:
+
+```bash
+sudo apt-get install libvips
+```
+
+Then install Python dependencies:
+
+```bash
+pip install -r requirements
+```
+
+To generate the thumbnails (in `ui/public/thumbnails`) and overview data (`ui/public/overview.json`):
+
+```bash
+cd process
+python generate_overview_data.py
+```
+
 ## UI
 
 ### Development
