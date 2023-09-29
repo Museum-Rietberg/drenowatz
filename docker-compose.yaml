@@ -8,3 +8,10 @@ services:
       dockerfile: docker/Dockerfile
     ports:
       - 3000:80
+
+  stamps:
+    build:
+      context: stamps
+    volumes:
+      - ./stamps/main.py:/app/main.py
+      - ./data:/app/data

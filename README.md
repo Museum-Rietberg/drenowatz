@@ -51,3 +51,17 @@ Build and run production server:
 ``` bash
 docker-compose up -d --build ui
 ```
+
+## Find stamp positions in images
+
+Finding the stamp positions in the images is executed in a separate step.
+It requires the data to be present in the `./data` folder, namely the `MRZ_Kunstwerke.json`, the full images and the stamps.
+They can be downloaded with the `bin/download` script.
+
+The stamp positioning process can then be initiated with docker:
+
+``` bash
+docker-compose run --build stamps
+```
+
+It will produce a `./data/stamp_positions.json` file that can then be further processed.
