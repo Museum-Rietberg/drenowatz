@@ -7,12 +7,16 @@
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
+    "tify": "^0.28.1",
     "vue": "^2.7.7",
     "vue-router": "^3.5.4"
   },
   "devDependencies": {
     "@vitejs/plugin-legacy": "^2.0.0",
     "@vitejs/plugin-vue2": "^1.1.2",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3",
     "terser": "^5.14.2",
     "vite": "^3.0.2"
   }
