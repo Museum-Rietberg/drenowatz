@@ -12,7 +12,6 @@ THUMBNAIL_IMAGES_PATH = os.path.join("..", "ui", "public", "thumbnails")
 
 def create_thumbnail(filename, thumb_filepath):
     print("Generating thumbnail for %s" % filename)
-    # todo 5:8 ratio
     thumbnail = pyvips.Image.thumbnail(
         os.path.join(KUNSTWERKE_IMAGES_PATH, filename),
         400,
