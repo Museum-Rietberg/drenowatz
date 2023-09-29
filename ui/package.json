@@ -6,6 +6,9 @@
     "build": "vite build",
     "preview": "vite preview --port 4173"
   },
+  "engines": {
+    "node": ">= 16"
+  },
   "dependencies": {
     "tify": "^0.28.1",
     "vue": "^2.7.7",
