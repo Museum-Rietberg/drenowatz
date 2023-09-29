@@ -15,20 +15,14 @@ def create_thumbnail(filename, thumb_filepath):
     # todo 5:8 ratio
     thumbnail = pyvips.Image.thumbnail(
         os.path.join(KUNSTWERKE_IMAGES_PATH, filename),
-        100,
-        height=100,
+        400,
+        height=250,
         crop=pyvips.enums.Interesting.ATTENTION,
     )
     thumbnail.write_to_file(thumb_filepath)
 
 
-def get_overview_data(filename, works):
-    m = re.match(INVENTARNUMMER_PATTERN, filename)
-    if not m:
-        print("Error processing filename %s" % filename)
-        return
-
-    inventarnummer = INVENTARNUMMER_PREFIX + m[1]
+def get_overview_data(inventarnummer, works):
     work_data = works.get(inventarnummer)
     if not work_data:
         print("Could not find data for work with inventarnummer %s" % inventarnummer)
@@ -50,7 +44,7 @@ def get_overview_data(filename, works):
 
     return {
         "id": inventarnummer,
-        "thumbnail": "/thumbnails/%s" % filename.replace(" ", "_"),
+        "thumbnail": "/thumbnails/%s.jpg" % inventarnummer,
         "title": title,
         "artist": artist,
     }
@@ -62,18 +56,33 @@ if __name__ == "__main__":
     works = {work["Inventarnummer"]: work for work in kunstwerke}
 
     overview = []
+    processed_works = []
+
     for filename in os.listdir(KUNSTWERKE_IMAGES_PATH):
+        # Get inventarnummer
+        m = re.match(INVENTARNUMMER_PATTERN, filename)
+        if not m:
+            print("Error processing filename %s" % filename)
+            continue
+
+        inventarnummer = INVENTARNUMMER_PREFIX + m[1]
+
+        # Ignore B/W images and seal images, and only generate one thumbnail per work
+        if inventarnummer in processed_works or "RBW" in filename or "Siegel" in filename:
+            continue
+
         thumb_filepath = os.path.join(
             THUMBNAIL_IMAGES_PATH,
-            filename.replace(" ", "_")
+            inventarnummer + ".jpg"
         )
-
         create_thumbnail(filename, thumb_filepath)
-        work_data = get_overview_data(filename, works)
+        work_data = get_overview_data(inventarnummer, works)
+
         if work_data:
             overview.append(work_data)
+            processed_works.append(inventarnummer)
 
-    print("Done!")
+    print("Generated overview data for %d works!" % len(overview))
 
     with open(OVERVIEW_PATH, "w") as f:
         f.write(json.dumps(overview, indent=4))
