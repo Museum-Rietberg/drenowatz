@@ -32,7 +32,7 @@ if __name__ == "__main__":
         kunstwerke = json.loads(f.read())
     works = {work["Inventarnummer"]: work for work in kunstwerke}
 
-    creator_works = {}
+    people_overview = {}
     types_of_creation = []
 
     # Map works to creators
@@ -40,7 +40,7 @@ if __name__ == "__main__":
         work = works[inventarnummer]
         # Original creator
         _add_work(
-            creator_works,
+            people_overview,
             work["Urheber*innen"][0]["UrheberIn_ID"],
             inventarnummer,
             work["Urheber*innen"][0]["UrheberIn_von"],
@@ -50,15 +50,17 @@ if __name__ == "__main__":
         # Additional creators
         for extra_creator in work["Urheber*innen"][1:]:
             _add_work(
-                creator_works,
+                people_overview,
                 extra_creator["UrheberIn_ID"],
                 inventarnummer,
                 extra_creator["UrheberIn_von"]
             )
 
     # Map names to creators
+    for creator_id in people_overview:
+        people_overview[creator_id]["name"] = people[creator_id]["AnzeigeName"]
 
-    # Map seals to creatory
+    # Map seals to creators
 
     with open(os.path.join(PEOPLE_OVERVIEW_PATH), "w") as f:
-        f.write(json.dumps(creator_works, indent=4))
+        f.write(json.dumps(people_overview, indent=4))
