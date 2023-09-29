@@ -18,17 +18,22 @@ export default {
       required: true,
     },
   },
+  computed: {
+    thumbnailPath() {
+      return "https://fra1.digitaloceanspaces.com/drenowatz" + this.thumbnail;
+    },
+  },
 };
 </script>
 
 <template>
   <router-link
     :to="{ name: 'iiifview', params: { id } }"
-    class="max-w-sm rounded bg-white overflow-hidden"
+    class="max-w-sm rounded bg-white overflow-hidden flex flex-col"
   >
-    <img class="w-full" :src="thumbnail" />
-    <div class="px-6 py-4">
-      <div class="font-bold text-xl mb-2">{{ title }}</div>
+    <img class="w-full" :src="thumbnailPath" />
+    <div class="px-6 py-4 grow">
+      <h2 class="font-bold text-xl mb-2">{{ title }}</h2>
     </div>
     <div class="px-6 pt-4 pb-2">
       <span

@@ -6,7 +6,9 @@ import PersonFilter from "../components/PersonFilter.vue";
 export default {
   components: { Card, DefaultLayout, PersonFilter },
   async mounted() {
-    const response = await fetch("/overview.json");
+    const response = await fetch(
+      "https://fra1.digitaloceanspaces.com/drenowatz/overview.json"
+    );
     this.paintings = await response.json();
   },
   data() {

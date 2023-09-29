@@ -1,11 +1,17 @@
 import json
 import os.path
-import pyvips
 import re
+
+import pyvips
+from s3_client import S3Client
+
+s3_client = S3Client()
 
 INVENTARNUMMER_PREFIX = "CH-001319-0.Obj.RCH_"
 INVENTARNUMMER_PATTERN = r"RCH ?([0-9]{4}[a-z]{0,1})"
-KUNSTWERKE_IMAGES_PATH = os.path.join("..", "data", "Bilder Drenowatz", "Bilder Kunstwerke")
+KUNSTWERKE_IMAGES_PATH = os.path.join(
+    "..", "data", "Bilder Drenowatz", "Bilder Kunstwerke"
+)
 OVERVIEW_PATH = os.path.join("..", "ui", "public", "overview.json")
 THUMBNAIL_IMAGES_PATH = os.path.join("..", "ui", "public", "thumbnails")
 
@@ -18,7 +24,13 @@ def create_thumbnail(filename, thumb_filepath):
         height=250,
         crop=pyvips.enums.Interesting.ATTENTION,
     )
-    thumbnail.write_to_file(thumb_filepath)
+
+    thumbnail.write_to_file("/tmp/" + thumb_filepath)
+    s3_client.upload_file(
+        "/tmp/" + thumb_filepath,
+        Key="thumbnails/" + thumb_filepath,
+        ExtraArgs={"ACL": "public-read"},
+    )
 
 
 def get_overview_data(inventarnummer, works):
@@ -67,14 +79,15 @@ if __name__ == "__main__":
         inventarnummer = INVENTARNUMMER_PREFIX + m[1]
 
         # Ignore B/W images and seal images, and only generate one thumbnail per work
-        if inventarnummer in processed_works or "RBW" in filename or "Siegel" in filename:
+        if (
+            inventarnummer in processed_works
+            or "RBW" in filename
+            or "Siegel" in filename
+        ):
             continue
 
-        thumb_filepath = os.path.join(
-            THUMBNAIL_IMAGES_PATH,
-            inventarnummer + ".jpg"
-        )
-        create_thumbnail(filename, thumb_filepath)
+        thumb_filepath = os.path.join(THUMBNAIL_IMAGES_PATH, inventarnummer + ".jpg")
+        create_thumbnail(filename, inventarnummer + ".jpg")
         work_data = get_overview_data(inventarnummer, works)
 
         if work_data:
@@ -83,5 +96,8 @@ if __name__ == "__main__":
 
     print("Generated overview data for %d works!" % len(overview))
 
-    with open(OVERVIEW_PATH, "w") as f:
-        f.write(json.dumps(overview, indent=4))
+    s3_client.put(
+        Body=json.dumps(overview),
+        Key="overview.json",
+        ACL="public-read",
+    )
