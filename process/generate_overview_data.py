@@ -1,13 +1,13 @@
 import json
 import os.path
-import pprint
 import pyvips
 import re
 
 INVENTARNUMMER_PREFIX = "CH-001319-0.Obj.RCH_"
 INVENTARNUMMER_PATTERN = r"RCH ?([0-9]{4}[a-z]{0,1})"
-KUNSTWERKE_IMAGES_PATH = os.path.join(os.path.curdir, "data", "Bilder Drenowatz", "Bilder Kunstwerke")
-THUMBNAIL_IMAGES_PATH = os.path.join(os.path.curdir, "drenowatz", "src", "assets", "thumbs")
+KUNSTWERKE_IMAGES_PATH = os.path.join("..", "data", "Bilder Drenowatz", "Bilder Kunstwerke")
+OVERVIEW_PATH = os.path.join("..", "ui", "public", "overview.json")
+THUMBNAIL_IMAGES_PATH = os.path.join("..", "ui", "public", "thumbnails")
 
 
 def create_thumbnail(filename, thumb_filepath):
@@ -22,7 +22,7 @@ def create_thumbnail(filename, thumb_filepath):
     thumbnail.write_to_file(thumb_filepath)
 
 
-def get_overview_data(filename, thumb_filepath, works):
+def get_overview_data(filename, works):
     m = re.match(INVENTARNUMMER_PATTERN, filename)
     if not m:
         print("Error processing filename %s" % filename)
@@ -50,14 +50,14 @@ def get_overview_data(filename, thumb_filepath, works):
 
     return {
         "id": inventarnummer,
-        "thumbnail": thumb_filepath,
+        "thumbnail": "/thumbnails/%s" % filename.replace(" ", "_"),
         "title": title,
         "artist": artist,
     }
 
 
 if __name__ == "__main__":
-    with open(os.path.join(os.path.curdir, "data", "MRZ_Kunstwerke.json")) as f:
+    with open(os.path.join("..", "data", "MRZ_Kunstwerke.json")) as f:
         kunstwerke = json.loads(f.read())
     works = {work["Inventarnummer"]: work for work in kunstwerke}
 
@@ -68,12 +68,12 @@ if __name__ == "__main__":
             filename.replace(" ", "_")
         )
 
-        # create_thumbnail(filename, thumb_filepath)
-        work_data = get_overview_data(filename, thumb_filepath, works)
+        create_thumbnail(filename, thumb_filepath)
+        work_data = get_overview_data(filename, works)
         if work_data:
             overview.append(work_data)
 
     print("Done!")
 
-    with open(os.path.join(os.path.curdir, "overview.json"), "w") as f:
+    with open(OVERVIEW_PATH, "w") as f:
         f.write(json.dumps(overview, indent=4))
