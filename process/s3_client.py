@@ -5,6 +5,9 @@ import boto3
 from boto3 import resource
 from boto3.s3.transfer import TransferConfig
 from botocore.config import Config as BotoConfig
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 class UnboundBucketException(Exception):
