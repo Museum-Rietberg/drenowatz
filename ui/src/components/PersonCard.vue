@@ -9,12 +9,20 @@ export default {
       type: String,
       required: true,
     },
-    title: {
+    name: {
       type: String,
       required: true,
     },
-    name: {
-      type: String,
+    number_seals: {
+      type: Number,
+      required: true,
+    },
+    number_works_painted: {
+      type: Number,
+      required: true,
+    },
+    number_works_sealed: {
+      type: Number,
       required: true,
     },
   },
@@ -34,6 +42,18 @@ export default {
       <span
         class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
         >{{ name }}</span
+      >
+      <span
+        class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+        >Painted {{ number_works_painted }} works</span
+      >
+      <span
+        class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+        >Placed seal on {{ number_works_sealed }} works</span
+      >
+      <span
+        class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+        >Used {{ number_seals }} different seals</span
       >
     </div>
   </router-link>

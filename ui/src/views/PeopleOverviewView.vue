@@ -24,7 +24,7 @@ export default {
       <PersonFilter />
     </template>
     <div class="grid sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8">
-      <PersonCard v-for="painting in people" v-bind="painting" />
+      <PersonCard v-for="seal in people" v-bind="seal" />
     </div>
   </DefaultLayout>
 </template>

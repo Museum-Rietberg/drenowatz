@@ -9,7 +9,7 @@ SEAL_IMAGES_PATH = os.path.join("..", "data", "Bilder Drenowatz", "Bilder PMs")
 SEAL_INVENTARNUMMER_PATTERN = r".*PM( |\.){0,2}([0-9]{1,5})"
 SEAL_INVENTARNUMMER_PREFIX = "CH-001319-0.Obj.PM."
 THUMBNAIL_IMAGES_PATH = os.path.join("..", "ui", "public", "thumbnails")
-TYPES_OF_CREATION = ['', 'Aufschrift', 'Kalligrafie', 'Provenienzmerkmal', 'Kolophon', 'Malerei']
+SECONDARY_CREATION_TYPES = ['Aufschrift', 'Kalligrafie', 'Kolophon']
 
 
 def create_thumbnail(filename, thumb_filepath):
@@ -149,7 +149,7 @@ if __name__ == "__main__":
         # Get inventarnummer
         m = re.match(SEAL_INVENTARNUMMER_PATTERN, filename)
         if not m:
-            print("Error processing filename %s" % filename)
+            print("Couldn't find an inventarnummer from filename %s" % filename)
             continue
 
         seal_inventarnummer = SEAL_INVENTARNUMMER_PREFIX + m[2].zfill(5)
@@ -172,5 +172,17 @@ if __name__ == "__main__":
 
     print("Generated thumbnails for %d seals" % len(processed_seals))
 
+    people_overview = [
+        {
+            "id": person["id"],
+            "thumbnail": person["thumbnail"],
+            "name": person["name"],
+            "number_seals": len(person.get("seals", [])),
+            "number_works_painted": len(person.get("Malerei", [])),
+            "number_works_sealed": len(person.get("Provenienzmerkmal", [])),
+        }
+        for person in people_data.values()
+    ]
+
     with open(os.path.join(PEOPLE_OVERVIEW_PATH), "w") as f:
-        f.write(json.dumps(people_data, indent=4))
+        f.write(json.dumps(people_overview, indent=4))
