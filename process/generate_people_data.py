@@ -1,8 +1,24 @@
 import json
 import os
+import re
+
+import pyvips
 
 PEOPLE_OVERVIEW_PATH = os.path.join("..", "ui", "public", "people_overview.json")
+SEAL_IMAGES_PATH = os.path.join("..", "data", "Bilder Drenowatz", "Bilder PMs")
+SEAL_INVENTARNUMMER_PATTERN = r".*PM( |\.){0,2}([0-9]{1,5})"
+SEAL_INVENTARNUMMER_PREFIX = "CH-001319-0.Obj.PM."
+THUMBNAIL_IMAGES_PATH = os.path.join("..", "ui", "public", "thumbnails")
 TYPES_OF_CREATION = ['', 'Aufschrift', 'Kalligrafie', 'Provenienzmerkmal', 'Kolophon', 'Malerei']
+
+
+def create_thumbnail(filename, thumb_filepath):
+    thumbnail = pyvips.Image.thumbnail(
+        os.path.join(SEAL_IMAGES_PATH, filename),
+        200,
+        height=200,
+    )
+    thumbnail.write_to_file(thumb_filepath)
 
 
 def _add_work(people_overview, creator, inventarnummer, creation_type, original_creator=False):
@@ -29,6 +45,12 @@ def _add_seal(people_overview, person, inventarnummer):
             people_overview[person]["seals"].append(inventarnummer)
         else:
             people_overview[person]["seals"] = [inventarnummer]
+
+
+def _add_thumbnail(people_overview, person, seal_inventarnummer):
+    if person in people_overview:
+        people_overview[person]["thumbnail"] = \
+            "/thumbnails/%s.jpg" % seal_inventarnummer
 
 
 if __name__ == "__main__":
@@ -104,11 +126,47 @@ if __name__ == "__main__":
                 seal_inventarnummer
             )
 
-    # Deduplicate list of paintings each person stamped their seal on
+    seals_to_thumbnail = {}
     for creator_id in people_overview:
-        if "Provenienzmerkmal" in people_overview[creator_id]:
-            people_overview[creator_id]["Provenienzmerkmal"] = \
-                list(set(people_overview[creator_id]["Provenienzmerkmal"]))
+        person = people_overview[creator_id]
+        # Deduplicate list of paintings each person stamped their seal on
+        if "Provenienzmerkmal" in person:
+            person["Provenienzmerkmal"] = \
+                list(set(person["Provenienzmerkmal"]))
+
+        if "seals" in person:
+            seals_to_thumbnail[person["seals"][0]] = creator_id
+        # Set all thumbnails to the placeholder image until we create the images
+        person["thumbnail"] = "/thumbnails/placeholder.jpg"
+
+    # Generate a thumbnail for each seal that will represent a person
+    processed_seals = []
+    for filename in os.listdir(SEAL_IMAGES_PATH):
+        # Get inventarnummer
+        m = re.match(SEAL_INVENTARNUMMER_PATTERN, filename)
+        if not m:
+            print("Error processing filename %s" % filename)
+            continue
+
+        seal_inventarnummer = SEAL_INVENTARNUMMER_PREFIX + m[2].zfill(5)
+
+        if seal_inventarnummer in processed_seals or \
+                seal_inventarnummer not in seals_to_thumbnail:
+            continue
+
+        thumb_filepath = os.path.join(
+            THUMBNAIL_IMAGES_PATH,
+            seal_inventarnummer + ".jpg"
+        )
+        create_thumbnail(filename, thumb_filepath)
+        processed_seals.append(seal_inventarnummer)
+        _add_thumbnail(
+            people_overview,
+            seals_to_thumbnail[seal_inventarnummer],
+            seal_inventarnummer
+        )
+
+    print("Generated thumbnails for %d seals" % len(processed_seals))
 
     with open(os.path.join(PEOPLE_OVERVIEW_PATH), "w") as f:
         f.write(json.dumps(people_overview, indent=4))
