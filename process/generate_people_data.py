@@ -3,6 +3,8 @@ import os
 import re
 
 import pyvips
+from s3_client import S3Client
+from source import get_kunstwerke, get_personen, get_stamps
 
 PEOPLE_OVERVIEW_PATH = os.path.join("..", "ui", "public", "people_overview.json")
 SEAL_IMAGES_PATH = os.path.join("..", "data", "Bilder Drenowatz", "Bilder PMs")
@@ -58,17 +60,14 @@ def _add_thumbnail(people_overview, person, seal_inventarnummer):
 
 
 if __name__ == "__main__":
-    with open(os.path.join("..", "data", "MRZ_Personen.json")) as f:
-        personen = json.loads(f.read())
+    personen = get_personen()
     people = {person["ID"]: person for person in personen}
 
-    with open(os.path.join("..", "data", "MRZ_Kunstwerke.json")) as f:
-        kunstwerke = json.loads(f.read())
+    kunstwerke = get_kunstwerke()
     works = {work["Inventarnummer"]: work for work in kunstwerke}
 
-    with open(os.path.join("..", "data", "MRZ_PMs.json")) as f:
-        pms = json.loads(f.read())
-    seals = {seal["Inventarnummer"]: seal for seal in pms}
+    stamps = get_stamps()
+    seals = {seal["Inventarnummer"]: seal for seal in stamps}
 
     people_data = {}
     types_of_creation = []
