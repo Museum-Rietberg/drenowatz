@@ -1,4 +1,5 @@
 import json
+from operator import itemgetter
 from pathlib import Path
 from pprint import pprint
 import re
@@ -102,11 +103,13 @@ class GenerateIiifManifests:
                 width = stamp["coordinates"][1][0] - top_left
                 height = stamp["coordinates"][1][1] - bottom_right
 
-                stamp_item = self.stamp_lookup[stamp['stamp_ID']]
-                if stamp_item['Personen']:
+                stamp_item = self.stamp_lookup[stamp["stamp_ID"]]
+                if stamp_item["Personen"]:
                     description = f"<div><strong>{stamp_item['Personen'][0]['Personen_Label']}</strong><br />{stamp_item['Bezeichnungen'][0]['Bezeichnung_Label']}<br />({stamp_item['Form']})</div>"
                 else:
-                    description = f"<div><i>Unbekannt</i><br />({stamp_item['Form']})</div>"
+                    description = (
+                        f"<div><i>Unbekannt</i><br />({stamp_item['Form']})</div>"
+                    )
                 annotations.append(
                     {
                         "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -146,7 +149,12 @@ class GenerateIiifManifests:
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": f"{S3_URL}manifests/{artwork_id}.json",
             "@type": "sc:Manifest",
-            "attribution": "Museum Rietberg",
+            "label": next(
+                map(itemgetter("Titel"), artwork_item["Titel_Bezeichnungen"]), None
+            )
+            or "",
+            "attribution": '<a href="https://rietberg.ch/">Museum Rietberg</a>',
+            "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
             "description": "",
             "sequences": [
                 {
@@ -154,6 +162,13 @@ class GenerateIiifManifests:
                     "@type": "sc:Sequence",
                     "canvases": canvases,
                 }
+            ],
+            "metadata": [
+                {"label": "Inventarnummer", "value": artwork_item['Inventarnummer']},
+                {"label": "Objekttyp", "value": artwork_item['Objekttyp']},
+                {"label": "Material_Technik", "value": artwork_item['Material_Technik']},
+                {"label": "Herstellungsort", "value": artwork_item['Herstellungsort']},
+                {"label": "Datierung", "value": artwork_item['Datierung'][0]['Date_Label']},
             ],
         }
 
