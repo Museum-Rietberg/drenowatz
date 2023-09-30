@@ -75,3 +75,8 @@ The following settings are required:
 - S3_SECRET_KEY
 - S3_BUCKET
 - S3_ENDPOINT
+
+# IIIF Viewer
+
+The IIIF Viewer graps the manifests from an S3 bucket.
+Configure the endpoint and the bucket under `config.js`. The viewer looks for a manifest in the `manifest` directory followed by the artwork id: `{S3_ENDPOINT}/{S3_BUCKET}/manifests/{artwork_id}.json`;
