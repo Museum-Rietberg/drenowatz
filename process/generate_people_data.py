@@ -88,8 +88,9 @@ if __name__ == "__main__":
                     people_overview[seal["Personen"][0]["Personen_ID"]]["name"] = \
                         seal["Personen"][0]["Personen_Label"]
 
-    # Map names to creators, if we don't already have a name from MRZ_PMs.json
     for creator_id in people_overview:
+        people_overview[creator_id]["id"] = creator_id
+        # Map names to creators, if we don't already have a name from MRZ_PMs.json
         if creator_id in people and "name" not in people_overview[creator_id]:
             people_overview[creator_id]["name"] = people[creator_id]["AnzeigeName"]
 
