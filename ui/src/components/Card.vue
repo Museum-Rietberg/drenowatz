@@ -29,9 +29,14 @@ export default {
 <template>
   <router-link
     :to="{ name: 'iiifview', params: { id } }"
-    class="max-w-sm rounded bg-white overflow-hidden flex flex-col"
+    class="group max-w-sm rounded bg-white overflow-hidden flex flex-col"
   >
-    <img class="w-full" :src="thumbnailPath" />
+    <div class="overflow-hidden">
+      <img
+        class="w-full group-hover:scale-125 transition duration-200"
+        :src="thumbnailPath"
+      />
+    </div>
     <div class="px-6 py-4 grow">
       <h2 class="font-bold text-xl mb-2">{{ title }}</h2>
     </div>
