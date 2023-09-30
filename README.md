@@ -65,3 +65,13 @@ docker-compose run --build stamps
 ```
 
 It will produce a `./data/stamp_positions.json` file that can then be further processed.
+
+# S3 Client
+
+Provide S3 Bucket credentials via `.env` file.
+The following settings are required:
+
+- S3_ACCESS_ID
+- S3_SECRET_KEY
+- S3_BUCKET
+- S3_ENDPOINT
