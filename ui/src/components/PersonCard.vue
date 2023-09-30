@@ -40,19 +40,19 @@ export default {
     </div>
     <div class="px-6 pt-4 pb-2">
       <span
-        class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+        class="block px-3 py-1 text-sm font-bold text-gray-700 mr-2 mb-2"
         >{{ name }}</span
       >
       <span
-        class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+        class="inline-block px-3 py-1 text-sm text-gray-700 mr-2 mb-2"
         >Painted {{ number_works_painted }} works</span
       >
       <span
-        class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+        class="inline-block px-3 py-1 text-sm text-gray-700 mr-2 mb-2"
         >Placed seal on {{ number_works_sealed }} works</span
       >
       <span
-        class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+        class="inline-block px-3 py-1 text-sm text-gray-700 mr-2 mb-2"
         >Used {{ number_seals }} different seals</span
       >
     </div>
