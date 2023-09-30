@@ -20,9 +20,6 @@ export default {
 
 <template>
   <DefaultLayout>
-    <template #right>
-      <PersonFilter />
-    </template>
     <div class="grid sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8">
       <PersonCard v-for="person in people" v-bind="person" />
     </div>

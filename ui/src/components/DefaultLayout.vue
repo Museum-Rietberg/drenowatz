@@ -15,6 +15,9 @@ export default {
         <img src="/logo.jpg" class="h-12 mr-4" />
         <h1 class="text-lg">drenowatz</h1>
       </router-link>
+      <router-link :to="{ name: 'peopleview' }" class="flex items-center">
+        <h1 class="text-lg">browse people</h1>
+      </router-link>
       <slot name="right" />
     </header>
     <main class="grow" :class="narrow ? '' : 'p-8'">

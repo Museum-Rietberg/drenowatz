@@ -23,7 +23,7 @@ const router = new VueRouter({
     },
     {
       path: "/people",
-      name: "people_overview",
+      name: "peopleview",
       component: PeopleOverviewView,
     },
     {
