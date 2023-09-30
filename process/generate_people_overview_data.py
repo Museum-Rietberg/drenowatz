@@ -68,9 +68,30 @@ if __name__ == "__main__":
                 extra_creator["UrheberIn_von"]
             )
 
-    # Map names to creators
+        # Map seal stamps (Provenienzmerkmale) to creators
+        for seal_stamp in work["Provenienzmerkmale"]:
+            # get seal inventarnummer
+            if seal_stamp["Typ"] == "Provenienzmerkmal":
+                # get person ID from MRZ_PMs.json
+                seal_inventarnummer = seal_stamp["PM_Nr"]
+                seal = seals[seal_inventarnummer]
+                if len(seal["Personen"]) > 0:
+                    _add_work(
+                        people_overview,
+                        seal["Personen"][0]["Personen_ID"],
+                        inventarnummer,
+                        'Provenienzmerkmal'
+                    )
+                    # There is just one person who has a seal in MRZ_PMs.json, but
+                    # is not included in MRZ_Personen.json. Let's get names from
+                    # MRZ_PMs.json so we are sure to include everyone.
+                    people_overview[seal["Personen"][0]["Personen_ID"]]["name"] = \
+                        seal["Personen"][0]["Personen_Label"]
+
+    # Map names to creators, if we don't already have a name from MRZ_PMs.json
     for creator_id in people_overview:
-        people_overview[creator_id]["name"] = people[creator_id]["AnzeigeName"]
+        if creator_id in people and "name" not in people_overview[creator_id]:
+            people_overview[creator_id]["name"] = people[creator_id]["AnzeigeName"]
 
     # Map seals to creators
     for seal_inventarnummer in seals:
@@ -82,9 +103,11 @@ if __name__ == "__main__":
                 seal_inventarnummer
             )
 
-    # Todo: Add data from Provenienzmerkmale field on works in MRZ_Kunstwerke.json
-    # Some works have the seal of a creator listed as a PM, but that creator is not
-    # listed as a creator on the work.
+    # Deduplicate list of paintings each person stamped their seal on
+    for creator_id in people_overview:
+        if "Provenienzmerkmal" in people_overview[creator_id]:
+            people_overview[creator_id]["Provenienzmerkmal"] = \
+                list(set(people_overview[creator_id]["Provenienzmerkmal"]))
 
     with open(os.path.join(PEOPLE_OVERVIEW_PATH), "w") as f:
         f.write(json.dumps(people_overview, indent=4))
