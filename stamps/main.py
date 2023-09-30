@@ -25,14 +25,14 @@ class StampPositionFinder:
             self.artworks = json.load(fio)
 
     def __call__(self):
-        data = list(self.build_artworks())
+        data = {key: value for key, value in self.build_artworks()}
         with TARGET.open("w+") as fio:
             json.dump(data, fio, sort_keys=True, indent=4)
         print(f"Written to {TARGET}")
 
     def build_artworks(self):
         for artwork in tqdm(self.artworks[:LIMIT], "Artworks"):
-            yield from self.build_artwork_images(artwork)
+            yield artwork['ID'], {key: value for key, value in self.build_artwork_images(artwork)}
 
     def build_artwork_images(self, artwork):
         for image_path in tqdm(
@@ -42,14 +42,12 @@ class StampPositionFinder:
             stamps = list(
                 self.find_stamps_in_artwork_image(image_path, artwork)
             )
-            yield {
-                image_path.name: {
-                    "stamps": stamps,
-                    "artwork_image": image_path.name,
-                    "artwork_ID": artwork["ID"],
-                    "width": image.width,
-                    "height": image.height,
-                }
+            yield image_path.name, {
+                "stamps": stamps,
+                "artwork_image": image_path.name,
+                "artwork_ID": artwork["ID"],
+                "width": image.width,
+                "height": image.height,
             }
 
     def find_stamps_in_artwork_image(self, image_path, artwork):
