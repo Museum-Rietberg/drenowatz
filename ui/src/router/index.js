@@ -2,6 +2,8 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import IIIFView from "../views/IIIFView.vue";
 import OverviewView from "../views/OverviewView.vue";
+import PeopleOverviewView from "../views/PeopleOverviewView.vue";
+import PersonView from "../views/PersonView.vue";
 
 Vue.use(VueRouter);
 
@@ -19,6 +21,16 @@ const router = new VueRouter({
       name: "iiifview",
       component: IIIFView,
     },
+    {
+      path: "/people",
+      name: "peopleview",
+      component: PeopleOverviewView,
+    },
+    {
+      path: "/person/:id",
+      name: "personview",
+      component: PersonView,
+    }
   ],
 });
 

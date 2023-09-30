@@ -3,3 +3,4 @@ node_modules
 dist
 *.jpg
 *.JPG
+!public/thumbnails/placeholder.jpg
