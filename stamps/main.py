@@ -16,7 +16,6 @@ TARGET = DATA_DIR / "stamp_positions.json"
 ARTWORK_IMAGE_DIR = DATA_DIR / "Bilder Drenowatz" / "Bilder Kunstwerke"
 STAMP_IMAGE_DIR = DATA_DIR / "Bilder Drenowatz" / "Bilder PMs"
 MATCH_THRESHOLD = 0.8
-LIMIT = -1
 
 
 class StampPositionFinder:
@@ -31,12 +30,12 @@ class StampPositionFinder:
         print(f"Written to {TARGET}")
 
     def build_artworks(self):
-        for artwork in tqdm(self.artworks[:LIMIT], "Artworks"):
+        for artwork in tqdm(self.artworks, "Artworks"):
             yield artwork['ID'], {key: value for key, value in self.build_artwork_images(artwork)}
 
     def build_artwork_images(self, artwork):
         for image_path in tqdm(
-            tuple(self.iter_artwork_images(artwork))[:LIMIT], "Artwork images"
+            list(self.iter_artwork_images(artwork)), "Artwork images"
         ):
             image = Image.open(image_path)
             stamps = list(
@@ -55,7 +54,7 @@ class StampPositionFinder:
             cv2.imread(str(image_path)), cv2.COLOR_BGR2GRAY
         )
         for stamp_item in tqdm(
-            tuple(self.iter_artwork_stamp_images(artwork))[:LIMIT],
+            tuple(self.iter_artwork_stamp_images(artwork)),
             "Artwork image stamps",
         ):
             coordinates = self.match_stamp_in_artwork_image(

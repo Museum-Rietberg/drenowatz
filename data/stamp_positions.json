@@ -1,0 +1,6173 @@
+{
+    "CH-001319-0.Obj.30655": {
+        "RCH 1228.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.30655",
+            "artwork_image": "RCH 1228.jpg",
+            "height": 4360,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            7326,
+                            2427
+                        ],
+                        [
+                            7507,
+                            2592
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88629"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6204,
+                            2549
+                        ],
+                        [
+                            6481,
+                            2820
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88630"
+                }
+            ],
+            "width": 8240
+        },
+        "RCH 1228_1.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.30655",
+            "artwork_image": "RCH 1228_1.jpg",
+            "height": 925,
+            "stamps": [],
+            "width": 773
+        }
+    },
+    "CH-001319-0.Obj.31121": {
+        "RCH 1142 .jpg": {
+            "artwork_ID": "CH-001319-0.Obj.31121",
+            "artwork_image": "RCH 1142 .jpg",
+            "height": 6930,
+            "stamps": [],
+            "width": 2109
+        },
+        "RCH 1142.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.31121",
+            "artwork_image": "RCH 1142.jpg",
+            "height": 4488,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            81,
+                            610
+                        ],
+                        [
+                            138,
+                            671
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84983"
+                },
+                {
+                    "coordinates": [
+                        [
+                            76,
+                            704
+                        ],
+                        [
+                            137,
+                            770
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84984"
+                }
+            ],
+            "width": 1366
+        }
+    },
+    "CH-001319-0.Obj.31588": {
+        "RCH 1151.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.31588",
+            "artwork_image": "RCH 1151.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.31787": {
+        "RCH 1163.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.31787",
+            "artwork_image": "RCH 1163.jpg",
+            "height": 7037,
+            "stamps": [],
+            "width": 3770
+        }
+    },
+    "CH-001319-0.Obj.32509": {
+        "RCH 1149.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.32509",
+            "artwork_image": "RCH 1149.jpg",
+            "height": 7208,
+            "stamps": [],
+            "width": 3617
+        }
+    },
+    "CH-001319-0.Obj.34011": {
+        "RCH 1182.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.34011",
+            "artwork_image": "RCH 1182.jpg",
+            "height": 5146,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            543,
+                            2098
+                        ],
+                        [
+                            778,
+                            2319
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89656"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7442,
+                            4278
+                        ],
+                        [
+                            7707,
+                            4768
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89657"
+                }
+            ],
+            "width": 7973
+        }
+    },
+    "CH-001319-0.Obj.34067": {
+        "RCH 1181.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.34067",
+            "artwork_image": "RCH 1181.jpg",
+            "height": 7112,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            2549,
+                            909
+                        ],
+                        [
+                            2657,
+                            1022
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.92629"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2546,
+                            1104
+                        ],
+                        [
+                            2654,
+                            1214
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.92630"
+                },
+                {
+                    "coordinates": [
+                        [
+                            149,
+                            145
+                        ],
+                        [
+                            310,
+                            307
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.92634"
+                },
+                {
+                    "coordinates": [
+                        [
+                            88,
+                            921
+                        ],
+                        [
+                            227,
+                            1063
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.92635"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3259,
+                            6890
+                        ],
+                        [
+                            3408,
+                            7038
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.92636"
+                },
+                {
+                    "coordinates": [
+                        [
+                            80,
+                            6793
+                        ],
+                        [
+                            156,
+                            6869
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.92637"
+                },
+                {
+                    "coordinates": [
+                        [
+                            70,
+                            6870
+                        ],
+                        [
+                            167,
+                            7038
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.92638"
+                }
+            ],
+            "width": 3479
+        },
+        "RCH 1181_RBW5649.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.34067",
+            "artwork_image": "RCH 1181_RBW5649.jpg",
+            "height": 870,
+            "stamps": [],
+            "width": 488
+        }
+    },
+    "CH-001319-0.Obj.35003": {
+        "RCH 1170x.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35003",
+            "artwork_image": "RCH 1170x.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6908,
+                            2927
+                        ],
+                        [
+                            7090,
+                            3329
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89403"
+                },
+                {
+                    "coordinates": [
+                        [
+                            420,
+                            4766
+                        ],
+                        [
+                            669,
+                            5026
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89404"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.35010": {
+        "RCH 1236b.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35010",
+            "artwork_image": "RCH 1236b.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.35033": {
+        "RCH 1170f.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35033",
+            "artwork_image": "RCH 1170f.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6349,
+                            1749
+                        ],
+                        [
+                            6557,
+                            1962
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89311"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6350,
+                            1965
+                        ],
+                        [
+                            6564,
+                            2184
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89312"
+                },
+                {
+                    "coordinates": [
+                        [
+                            371,
+                            4411
+                        ],
+                        [
+                            687,
+                            4714
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89313"
+                },
+                {
+                    "coordinates": [
+                        [
+                            404,
+                            3889
+                        ],
+                        [
+                            658,
+                            4305
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89314"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.35064": {
+        "RCH 1165e.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35064",
+            "artwork_image": "RCH 1165e.jpg",
+            "height": 6440,
+            "stamps": [],
+            "width": 5006
+        }
+    },
+    "CH-001319-0.Obj.35179": {
+        "RCH 1158.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35179",
+            "artwork_image": "RCH 1158.jpg",
+            "height": 6958,
+            "stamps": [],
+            "width": 3677
+        }
+    },
+    "CH-001319-0.Obj.35180": {
+        "RCH 1156.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35180",
+            "artwork_image": "RCH 1156.jpg",
+            "height": 7044,
+            "stamps": [],
+            "width": 3238
+        }
+    },
+    "CH-001319-0.Obj.35188": {
+        "RCH 1179k.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.35188",
+            "artwork_image": "RCH 1179k.JPG",
+            "height": 1681,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            324,
+                            265
+                        ],
+                        [
+                            411,
+                            352
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89733"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2227,
+                            1399
+                        ],
+                        [
+                            2336,
+                            1609
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89734"
+                }
+            ],
+            "width": 2418
+        }
+    },
+    "CH-001319-0.Obj.35241": {
+        "RCH 1171.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35241",
+            "artwork_image": "RCH 1171.jpg",
+            "height": 5405,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            4163,
+                            1123
+                        ],
+                        [
+                            4347,
+                            1381
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89405"
+                },
+                {
+                    "coordinates": [
+                        [
+                            5096,
+                            3801
+                        ],
+                        [
+                            5323,
+                            4030
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89406"
+                },
+                {
+                    "coordinates": [
+                        [
+                            154,
+                            2776
+                        ],
+                        [
+                            388,
+                            3011
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89407"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1758,
+                            3715
+                        ],
+                        [
+                            1976,
+                            3928
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89408"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1942,
+                            3828
+                        ],
+                        [
+                            2153,
+                            4033
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89409"
+                }
+            ],
+            "width": 7272
+        }
+    },
+    "CH-001319-0.Obj.35301": {
+        "RCH 1175e.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35301",
+            "artwork_image": "RCH 1175e.jpg",
+            "height": 6112,
+            "stamps": [],
+            "width": 8222
+        }
+    },
+    "CH-001319-0.Obj.35306": {},
+    "CH-001319-0.Obj.35386": {
+        "RCH 1141.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35386",
+            "artwork_image": "RCH 1141.jpg",
+            "height": 7071,
+            "stamps": [],
+            "width": 2716
+        }
+    },
+    "CH-001319-0.Obj.35392": {
+        "RCH 1136h.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35392",
+            "artwork_image": "RCH 1136h.jpg",
+            "height": 7975,
+            "stamps": [],
+            "width": 10630
+        }
+    },
+    "CH-001319-0.Obj.35410": {
+        "RCH 1170m.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35410",
+            "artwork_image": "RCH 1170m.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            471,
+                            1322
+                        ],
+                        [
+                            649,
+                            1498
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89332"
+                },
+                {
+                    "coordinates": [
+                        [
+                            466,
+                            1502
+                        ],
+                        [
+                            655,
+                            1734
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89333"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7522,
+                            4381
+                        ],
+                        [
+                            7844,
+                            4703
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89334"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.35420": {
+        "RCH 1162f.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35420",
+            "artwork_image": "RCH 1162f.jpg",
+            "height": 6141,
+            "stamps": [],
+            "width": 8155
+        }
+    },
+    "CH-001319-0.Obj.35477": {
+        "RCH 1168d.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35477",
+            "artwork_image": "RCH 1168d.jpg",
+            "height": 3129,
+            "stamps": [],
+            "width": 4610
+        }
+    },
+    "CH-001319-0.Obj.35488": {
+        "RCH 1168j.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35488",
+            "artwork_image": "RCH 1168j.jpg",
+            "height": 1316,
+            "stamps": [],
+            "width": 1920
+        }
+    },
+    "CH-001319-0.Obj.35638": {
+        "RCH 1136e.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35638",
+            "artwork_image": "RCH 1136e.jpg",
+            "height": 7974,
+            "stamps": [],
+            "width": 10630
+        }
+    },
+    "CH-001319-0.Obj.35646": {
+        "RCH 1173.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35646",
+            "artwork_image": "RCH 1173.jpg",
+            "height": 8042,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            955,
+                            659
+                        ],
+                        [
+                            1075,
+                            847
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89549"
+                },
+                {
+                    "coordinates": [
+                        [
+                            462,
+                            2677
+                        ],
+                        [
+                            632,
+                            2771
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89550"
+                },
+                {
+                    "coordinates": [
+                        [
+                            450,
+                            3268
+                        ],
+                        [
+                            641,
+                            3474
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89551"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2282,
+                            7046
+                        ],
+                        [
+                            2433,
+                            7265
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89552"
+                },
+                {
+                    "coordinates": [
+                        [
+                            572,
+                            7418
+                        ],
+                        [
+                            774,
+                            7573
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89553"
+                },
+                {
+                    "coordinates": [
+                        [
+                            376,
+                            7165
+                        ],
+                        [
+                            540,
+                            7399
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89554"
+                },
+                {
+                    "coordinates": [
+                        [
+                            376,
+                            7456
+                        ],
+                        [
+                            553,
+                            7637
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89555"
+                }
+            ],
+            "width": 2826
+        },
+        "RCH 1173_1.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35646",
+            "artwork_image": "RCH 1173_1.jpg",
+            "height": 918,
+            "stamps": [],
+            "width": 613
+        }
+    },
+    "CH-001319-0.Obj.35655": {
+        "RCH 1236f.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35655",
+            "artwork_image": "RCH 1236f.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.35692": {
+        "RCH 1177a.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35692",
+            "artwork_image": "RCH 1177a.jpg",
+            "height": 5433,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            845,
+                            1202
+                        ],
+                        [
+                            1269,
+                            1610
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89710"
+                }
+            ],
+            "width": 8032
+        }
+    },
+    "CH-001319-0.Obj.35830": {
+        "RCH 1229.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35830",
+            "artwork_image": "RCH 1229.jpg",
+            "height": 4473,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            4881,
+                            2983
+                        ],
+                        [
+                            5111,
+                            3292
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88625"
+                }
+            ],
+            "width": 8217
+        }
+    },
+    "CH-001319-0.Obj.35897": {
+        "RCH 1162c.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35897",
+            "artwork_image": "RCH 1162c.jpg",
+            "height": 6125,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            5605,
+                            1664
+                        ],
+                        [
+                            5870,
+                            1959
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86664"
+                }
+            ],
+            "width": 8161
+        }
+    },
+    "CH-001319-0.Obj.35955": {
+        "RCH 1161.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35955",
+            "artwork_image": "RCH 1161.jpg",
+            "height": 7965,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            886,
+                            1499
+                        ],
+                        [
+                            981,
+                            1592
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86649"
+                },
+                {
+                    "coordinates": [
+                        [
+                            893,
+                            1626
+                        ],
+                        [
+                            982,
+                            1719
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86650"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3388,
+                            7287
+                        ],
+                        [
+                            3545,
+                            7446
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86651"
+                },
+                {
+                    "coordinates": [
+                        [
+                            532,
+                            6873
+                        ],
+                        [
+                            632,
+                            6971
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86652"
+                },
+                {
+                    "coordinates": [
+                        [
+                            536,
+                            7039
+                        ],
+                        [
+                            633,
+                            7139
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86653"
+                },
+                {
+                    "coordinates": [
+                        [
+                            537,
+                            7321
+                        ],
+                        [
+                            635,
+                            7421
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86654"
+                },
+                {
+                    "coordinates": [
+                        [
+                            528,
+                            7491
+                        ],
+                        [
+                            605,
+                            7567
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86655"
+                }
+            ],
+            "width": 4063
+        }
+    },
+    "CH-001319-0.Obj.35988": {
+        "RCH 1174.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35988",
+            "artwork_image": "RCH 1174.jpg",
+            "height": 8280,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            2981,
+                            701
+                        ],
+                        [
+                            3080,
+                            849
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89649"
+                },
+                {
+                    "coordinates": [
+                        [
+                            753,
+                            1486
+                        ],
+                        [
+                            869,
+                            1600
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89650"
+                },
+                {
+                    "coordinates": [
+                        [
+                            746,
+                            1713
+                        ],
+                        [
+                            869,
+                            1831
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89651"
+                },
+                {
+                    "coordinates": [
+                        [
+                            734,
+                            1951
+                        ],
+                        [
+                            859,
+                            2112
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89652"
+                },
+                {
+                    "coordinates": [
+                        [
+                            719,
+                            2227
+                        ],
+                        [
+                            864,
+                            2419
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89653"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2958,
+                            7511
+                        ],
+                        [
+                            3179,
+                            7771
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89654"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2984,
+                            7298
+                        ],
+                        [
+                            3148,
+                            7470
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89655"
+                }
+            ],
+            "width": 3667
+        }
+    },
+    "CH-001319-0.Obj.35994": {
+        "RCH 1231.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.35994",
+            "artwork_image": "RCH 1231.JPG",
+            "height": 2319,
+            "stamps": [],
+            "width": 4202
+        }
+    },
+    "CH-001319-0.Obj.35999": {
+        "RCH 1160.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.35999",
+            "artwork_image": "RCH 1160.jpg",
+            "height": 6868,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            3716,
+                            6287
+                        ],
+                        [
+                            3868,
+                            6537
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86644"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3712,
+                            6567
+                        ],
+                        [
+                            3867,
+                            6812
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86645"
+                },
+                {
+                    "coordinates": [
+                        [
+                            183,
+                            475
+                        ],
+                        [
+                            348,
+                            722
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86646"
+                },
+                {
+                    "coordinates": [
+                        [
+                            99,
+                            6211
+                        ],
+                        [
+                            268,
+                            6415
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86647"
+                }
+            ],
+            "width": 3982
+        }
+    },
+    "CH-001319-0.Obj.36008": {
+        "RCH 1022.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36008",
+            "artwork_image": "RCH 1022.jpg",
+            "height": 7250,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            76,
+                            6581
+                        ],
+                        [
+                            321,
+                            6811
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.81967"
+                }
+            ],
+            "width": 3238
+        }
+    },
+    "CH-001319-0.Obj.36034": {
+        "RCH 1146.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36034",
+            "artwork_image": "RCH 1146.jpg",
+            "height": 8119,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            3023,
+                            1229
+                        ],
+                        [
+                            3183,
+                            1391
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84960"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3002,
+                            1428
+                        ],
+                        [
+                            3190,
+                            1617
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84961"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3368,
+                            7482
+                        ],
+                        [
+                            3587,
+                            7692
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84962"
+                },
+                {
+                    "coordinates": [
+                        [
+                            603,
+                            6266
+                        ],
+                        [
+                            756,
+                            6679
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84963"
+                },
+                {
+                    "coordinates": [
+                        [
+                            621,
+                            6831
+                        ],
+                        [
+                            733,
+                            7029
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84964"
+                },
+                {
+                    "coordinates": [
+                        [
+                            605,
+                            7074
+                        ],
+                        [
+                            731,
+                            7356
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84965"
+                }
+            ],
+            "width": 4209
+        }
+    },
+    "CH-001319-0.Obj.36083": {
+        "RCH 1162g.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36083",
+            "artwork_image": "RCH 1162g.jpg",
+            "height": 6178,
+            "stamps": [],
+            "width": 8240
+        }
+    },
+    "CH-001319-0.Obj.36090": {
+        "RCH 1233.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.36090",
+            "artwork_image": "RCH 1233.JPG",
+            "height": 2139,
+            "stamps": [],
+            "width": 3874
+        }
+    },
+    "CH-001319-0.Obj.36116": {
+        "RCH 1175g.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36116",
+            "artwork_image": "RCH 1175g.jpg",
+            "height": 6208,
+            "stamps": [],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36134": {
+        "RCH 1170t.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36134",
+            "artwork_image": "RCH 1170t.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1417,
+                            1455
+                        ],
+                        [
+                            1543,
+                            1615
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89353"
+                },
+                {
+                    "coordinates": [
+                        [
+                            338,
+                            4552
+                        ],
+                        [
+                            586,
+                            5046
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89354"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36260": {
+        "RCH 1179j.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.36260",
+            "artwork_image": "RCH 1179j.JPG",
+            "height": 1639,
+            "stamps": [],
+            "width": 2370
+        }
+    },
+    "CH-001319-0.Obj.36268": {
+        "RCH 1162a.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36268",
+            "artwork_image": "RCH 1162a.jpg",
+            "height": 6142,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            2663,
+                            631
+                        ],
+                        [
+                            2949,
+                            909
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86658"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2659,
+                            978
+                        ],
+                        [
+                            2954,
+                            1268
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86659"
+                },
+                {
+                    "coordinates": [
+                        [
+                            891,
+                            5360
+                        ],
+                        [
+                            1157,
+                            5627
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86660"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6617,
+                            5195
+                        ],
+                        [
+                            7015,
+                            5602
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86661"
+                }
+            ],
+            "width": 8174
+        }
+    },
+    "CH-001319-0.Obj.36286": {
+        "RCH 1180e.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36286",
+            "artwork_image": "RCH 1180e.jpg",
+            "height": 6208,
+            "stamps": [],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36308": {
+        "RCH 1176b.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36308",
+            "artwork_image": "RCH 1176b.jpg",
+            "height": 5199,
+            "stamps": [],
+            "width": 6716
+        }
+    },
+    "CH-001319-0.Obj.36321": {
+        "RCH 1148d.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.36321",
+            "artwork_image": "RCH 1148d.JPG",
+            "height": 1896,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1488,
+                            205
+                        ],
+                        [
+                            1545,
+                            316
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84958"
+                }
+            ],
+            "width": 1857
+        }
+    },
+    "CH-001319-0.Obj.36329": {
+        "RCH 1170w.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36329",
+            "artwork_image": "RCH 1170w.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6669,
+                            2099
+                        ],
+                        [
+                            6883,
+                            2347
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89381"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6625,
+                            2445
+                        ],
+                        [
+                            6882,
+                            2700
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89382"
+                },
+                {
+                    "coordinates": [
+                        [
+                            347,
+                            4763
+                        ],
+                        [
+                            683,
+                            5120
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89383"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36353": {
+        "RCH 1136g.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36353",
+            "artwork_image": "RCH 1136g.jpg",
+            "height": 7975,
+            "stamps": [],
+            "width": 10630
+        }
+    },
+    "CH-001319-0.Obj.36376": {
+        "RCH 1165f.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36376",
+            "artwork_image": "RCH 1165f.jpg",
+            "height": 6416,
+            "stamps": [],
+            "width": 4934
+        }
+    },
+    "CH-001319-0.Obj.36383": {
+        "RCH 1170p.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36383",
+            "artwork_image": "RCH 1170p.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            5293,
+                            1711
+                        ],
+                        [
+                            5521,
+                            1982
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89340"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7720,
+                            1519
+                        ],
+                        [
+                            7849,
+                            1803
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89341"
+                },
+                {
+                    "coordinates": [
+                        [
+                            356,
+                            4465
+                        ],
+                        [
+                            579,
+                            5016
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89342"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36404": {
+        "RCH 1232.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36404",
+            "artwork_image": "RCH 1232.jpg",
+            "height": 4641,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1157,
+                            2708
+                        ],
+                        [
+                            1417,
+                            2961
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88631"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6762,
+                            2790
+                        ],
+                        [
+                            7100,
+                            3128
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88632"
+                },
+                {
+                    "coordinates": [
+                        [
+                            5659,
+                            3528
+                        ],
+                        [
+                            5854,
+                            3726
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88633"
+                },
+                {
+                    "coordinates": [
+                        [
+                            350,
+                            2611
+                        ],
+                        [
+                            575,
+                            2787
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88634"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36414": {
+        "RCH 1170a.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36414",
+            "artwork_image": "RCH 1170a.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            4866,
+                            1484
+                        ],
+                        [
+                            5110,
+                            1740
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89207"
+                },
+                {
+                    "coordinates": [
+                        [
+                            337,
+                            4649
+                        ],
+                        [
+                            659,
+                            4963
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89208"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7555,
+                            1327
+                        ],
+                        [
+                            7730,
+                            1703
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89209"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7534,
+                            1746
+                        ],
+                        [
+                            7768,
+                            1977
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89210"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7783,
+                            4279
+                        ],
+                        [
+                            8017,
+                            4732
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89211"
+                },
+                {
+                    "coordinates": [
+                        [
+                            316,
+                            3888
+                        ],
+                        [
+                            515,
+                            4087
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89212"
+                },
+                {
+                    "coordinates": [
+                        [
+                            312,
+                            4212
+                        ],
+                        [
+                            681,
+                            4585
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89213"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36432": {
+        "RCH 1157.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36432",
+            "artwork_image": "RCH 1157.jpg",
+            "height": 7914,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            875,
+                            371
+                        ],
+                        [
+                            965,
+                            489
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86625"
+                },
+                {
+                    "coordinates": [
+                        [
+                            406,
+                            1480
+                        ],
+                        [
+                            509,
+                            1585
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86626"
+                },
+                {
+                    "coordinates": [
+                        [
+                            408,
+                            1588
+                        ],
+                        [
+                            505,
+                            1690
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86627"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2566,
+                            7342
+                        ],
+                        [
+                            2697,
+                            7480
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86628"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2652,
+                            7146
+                        ],
+                        [
+                            2721,
+                            7321
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86629"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2747,
+                            6868
+                        ],
+                        [
+                            2889,
+                            7083
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86630"
+                },
+                {
+                    "coordinates": [
+                        [
+                            149,
+                            7174
+                        ],
+                        [
+                            267,
+                            7356
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86631"
+                }
+            ],
+            "width": 3012
+        }
+    },
+    "CH-001319-0.Obj.36489": {
+        "RCH 1155.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36489",
+            "artwork_image": "RCH 1155.jpg",
+            "height": 5452,
+            "stamps": [],
+            "width": 7290
+        },
+        "RCH 1155_1.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36489",
+            "artwork_image": "RCH 1155_1.jpg",
+            "height": 2493,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1155_2.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36489",
+            "artwork_image": "RCH 1155_2.jpg",
+            "height": 5409,
+            "stamps": [],
+            "width": 7254
+        },
+        "RCH 1155_3.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36489",
+            "artwork_image": "RCH 1155_3.jpg",
+            "height": 5436,
+            "stamps": [],
+            "width": 7281
+        },
+        "RCH 1155_4.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36489",
+            "artwork_image": "RCH 1155_4.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.36514": {
+        "RCH 1176h.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36514",
+            "artwork_image": "RCH 1176h.jpg",
+            "height": 6090,
+            "stamps": [],
+            "width": 8220
+        }
+    },
+    "CH-001319-0.Obj.36517": {},
+    "CH-001319-0.Obj.36571": {
+        "RCH 1133.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36571",
+            "artwork_image": "RCH 1133.jpg",
+            "height": 6336,
+            "stamps": [],
+            "width": 3843
+        }
+    },
+    "CH-001319-0.Obj.36631": {
+        "RCH 1136a.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36631",
+            "artwork_image": "RCH 1136a.jpg",
+            "height": 7974,
+            "stamps": [],
+            "width": 10630
+        }
+    },
+    "CH-001319-0.Obj.36653": {
+        "RCH 1230.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.36653",
+            "artwork_image": "RCH 1230.JPG",
+            "height": 2112,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            2559,
+                            533
+                        ],
+                        [
+                            2682,
+                            659
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88626"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2499,
+                            646
+                        ],
+                        [
+                            2652,
+                            797
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88627"
+                }
+            ],
+            "width": 3943
+        }
+    },
+    "CH-001319-0.Obj.36663": {
+        "RCH 1138.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36663",
+            "artwork_image": "RCH 1138.jpg",
+            "height": 4311,
+            "stamps": [],
+            "width": 7855
+        }
+    },
+    "CH-001319-0.Obj.36682": {
+        "RCH 1234.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36682",
+            "artwork_image": "RCH 1234.jpg",
+            "height": 5485,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            7043,
+                            4514
+                        ],
+                        [
+                            7313,
+                            4782
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89117"
+                },
+                {
+                    "coordinates": [
+                        [
+                            773,
+                            4824
+                        ],
+                        [
+                            1005,
+                            5055
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89124"
+                },
+                {
+                    "coordinates": [
+                        [
+                            337,
+                            934
+                        ],
+                        [
+                            502,
+                            1433
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89136"
+                },
+                {
+                    "coordinates": [
+                        [
+                            358,
+                            1751
+                        ],
+                        [
+                            537,
+                            2114
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89137"
+                },
+                {
+                    "coordinates": [
+                        [
+                            338,
+                            3503
+                        ],
+                        [
+                            563,
+                            3731
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89138"
+                },
+                {
+                    "coordinates": [
+                        [
+                            357,
+                            4153
+                        ],
+                        [
+                            581,
+                            4376
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89145"
+                },
+                {
+                    "coordinates": [
+                        [
+                            349,
+                            4503
+                        ],
+                        [
+                            576,
+                            4728
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89152"
+                },
+                {
+                    "coordinates": [
+                        [
+                            324,
+                            4828
+                        ],
+                        [
+                            578,
+                            5074
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89153"
+                }
+            ],
+            "width": 7703
+        }
+    },
+    "CH-001319-0.Obj.36723": {
+        "RCH 1176g.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36723",
+            "artwork_image": "RCH 1176g.jpg",
+            "height": 6119,
+            "stamps": [],
+            "width": 8135
+        }
+    },
+    "CH-001319-0.Obj.36735": {
+        "RCH 1025.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36735",
+            "artwork_image": "RCH 1025.jpg",
+            "height": 907,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            452,
+                            811
+                        ],
+                        [
+                            479,
+                            846
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82735"
+                }
+            ],
+            "width": 541
+        }
+    },
+    "CH-001319-0.Obj.36738": {
+        "RCH 1170b.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36738",
+            "artwork_image": "RCH 1170b.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            611,
+                            3558
+                        ],
+                        [
+                            785,
+                            3768
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89214"
+                },
+                {
+                    "coordinates": [
+                        [
+                            615,
+                            3915
+                        ],
+                        [
+                            812,
+                            4175
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89215"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7573,
+                            1379
+                        ],
+                        [
+                            7813,
+                            1688
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89216"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7645,
+                            4321
+                        ],
+                        [
+                            7835,
+                            4859
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89271"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36754": {
+        "RCH 1148h.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.36754",
+            "artwork_image": "RCH 1148h.JPG",
+            "height": 1911,
+            "stamps": [],
+            "width": 1867
+        }
+    },
+    "CH-001319-0.Obj.36758": {
+        "RCH 1180c.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36758",
+            "artwork_image": "RCH 1180c.jpg",
+            "height": 6208,
+            "stamps": [],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36768": {
+        "RCH 1170l.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36768",
+            "artwork_image": "RCH 1170l.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            476,
+                            3675
+                        ],
+                        [
+                            735,
+                            3932
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89330"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7500,
+                            4577
+                        ],
+                        [
+                            7898,
+                            4971
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89331"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36796": {
+        "RCH 1170c.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36796",
+            "artwork_image": "RCH 1170c.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6677,
+                            2463
+                        ],
+                        [
+                            6874,
+                            2685
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89292"
+                },
+                {
+                    "coordinates": [
+                        [
+                            401,
+                            4672
+                        ],
+                        [
+                            656,
+                            4961
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89293"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7702,
+                            1392
+                        ],
+                        [
+                            7823,
+                            1658
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89294"
+                },
+                {
+                    "coordinates": [
+                        [
+                            432,
+                            3235
+                        ],
+                        [
+                            607,
+                            3721
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89295"
+                },
+                {
+                    "coordinates": [
+                        [
+                            394,
+                            4371
+                        ],
+                        [
+                            655,
+                            4638
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89296"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36836": {
+        "RCH 1136f.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36836",
+            "artwork_image": "RCH 1136f.jpg",
+            "height": 7974,
+            "stamps": [],
+            "width": 10630
+        }
+    },
+    "CH-001319-0.Obj.36837": {
+        "RCH 1175c.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36837",
+            "artwork_image": "RCH 1175c.jpg",
+            "height": 6208,
+            "stamps": [],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36868": {
+        "RCH 1136d.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36868",
+            "artwork_image": "RCH 1136d.jpg",
+            "height": 7974,
+            "stamps": [],
+            "width": 10630
+        }
+    },
+    "CH-001319-0.Obj.36878": {
+        "RCH 1148c.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.36878",
+            "artwork_image": "RCH 1148c.JPG",
+            "height": 1881,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            778,
+                            165
+                        ],
+                        [
+                            877,
+                            257
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84956"
+                },
+                {
+                    "coordinates": [
+                        [
+                            774,
+                            266
+                        ],
+                        [
+                            880,
+                            367
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84957"
+                }
+            ],
+            "width": 1833
+        }
+    },
+    "CH-001319-0.Obj.36883": {
+        "RCH 1140b.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.36883",
+            "artwork_image": "RCH 1140b.JPG",
+            "height": 1699,
+            "stamps": [],
+            "width": 2529
+        },
+        "RCH 1140b_1.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36883",
+            "artwork_image": "RCH 1140b_1.jpg",
+            "height": 1561,
+            "stamps": [],
+            "width": 1108
+        }
+    },
+    "CH-001319-0.Obj.36893": {
+        "RCH 1180i.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36893",
+            "artwork_image": "RCH 1180i.jpg",
+            "height": 6208,
+            "stamps": [],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36894": {
+        "RCH 1175j.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36894",
+            "artwork_image": "RCH 1175j.jpg",
+            "height": 6101,
+            "stamps": [],
+            "width": 8189
+        }
+    },
+    "CH-001319-0.Obj.36943": {
+        "RCH 1170j.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36943",
+            "artwork_image": "RCH 1170j.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            485,
+                            3647
+                        ],
+                        [
+                            726,
+                            3983
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89324"
+                },
+                {
+                    "coordinates": [
+                        [
+                            465,
+                            4116
+                        ],
+                        [
+                            752,
+                            4404
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89325"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7432,
+                            1369
+                        ],
+                        [
+                            7794,
+                            1742
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89326"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.36977": {
+        "RCH 1139.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.36977",
+            "artwork_image": "RCH 1139.jpg",
+            "height": 7015,
+            "stamps": [],
+            "width": 2897
+        }
+    },
+    "CH-001319-0.Obj.37018": {
+        "RCH 1235.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37018",
+            "artwork_image": "RCH 1235.jpg",
+            "height": 4724,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            985,
+                            954
+                        ],
+                        [
+                            1042,
+                            1085
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89181"
+                },
+                {
+                    "coordinates": [
+                        [
+                            963,
+                            1124
+                        ],
+                        [
+                            1065,
+                            1228
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89182"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1429,
+                            313
+                        ],
+                        [
+                            1945,
+                            818
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89183"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2473,
+                            555
+                        ],
+                        [
+                            2629,
+                            923
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89184"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2193,
+                            1299
+                        ],
+                        [
+                            2383,
+                            1486
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89185"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1960,
+                            1771
+                        ],
+                        [
+                            2009,
+                            1821
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89186"
+                }
+            ],
+            "width": 3407
+        },
+        "RCH 1235_1.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37018",
+            "artwork_image": "RCH 1235_1.jpg",
+            "height": 4089,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            324,
+                            705
+                        ],
+                        [
+                            381,
+                            836
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89181"
+                },
+                {
+                    "coordinates": [
+                        [
+                            302,
+                            875
+                        ],
+                        [
+                            404,
+                            979
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89182"
+                },
+                {
+                    "coordinates": [
+                        [
+                            768,
+                            64
+                        ],
+                        [
+                            1284,
+                            569
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89183"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1812,
+                            306
+                        ],
+                        [
+                            1968,
+                            674
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89184"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1532,
+                            1050
+                        ],
+                        [
+                            1722,
+                            1237
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89185"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1299,
+                            1522
+                        ],
+                        [
+                            1348,
+                            1572
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89186"
+                }
+            ],
+            "width": 2082
+        },
+        "RCH 1235_2.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37018",
+            "artwork_image": "RCH 1235_2.jpg",
+            "height": 4470,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            574,
+                            833
+                        ],
+                        [
+                            631,
+                            964
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89181"
+                },
+                {
+                    "coordinates": [
+                        [
+                            552,
+                            1003
+                        ],
+                        [
+                            654,
+                            1107
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89182"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1018,
+                            192
+                        ],
+                        [
+                            1534,
+                            697
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89183"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2062,
+                            434
+                        ],
+                        [
+                            2218,
+                            802
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89184"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1782,
+                            1178
+                        ],
+                        [
+                            1972,
+                            1365
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89185"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1549,
+                            1650
+                        ],
+                        [
+                            1598,
+                            1700
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89186"
+                }
+            ],
+            "width": 2604
+        }
+    },
+    "CH-001319-0.Obj.37080": {
+        "RCH 1168a.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37080",
+            "artwork_image": "RCH 1168a.jpg",
+            "height": 1326,
+            "stamps": [],
+            "width": 1920
+        }
+    },
+    "CH-001319-0.Obj.37144": {
+        "RCH 1140e.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.37144",
+            "artwork_image": "RCH 1140e.JPG",
+            "height": 1735,
+            "stamps": [],
+            "width": 2562
+        }
+    },
+    "CH-001319-0.Obj.37203": {
+        "RCH 1170v.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37203",
+            "artwork_image": "RCH 1170v.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            5346,
+                            1799
+                        ],
+                        [
+                            5455,
+                            1935
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89359"
+                },
+                {
+                    "coordinates": [
+                        [
+                            373,
+                            4517
+                        ],
+                        [
+                            804,
+                            4947
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89360"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.37204": {
+        "RCH 1132.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37204",
+            "artwork_image": "RCH 1132.jpg",
+            "height": 6897,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1780,
+                            894
+                        ],
+                        [
+                            1996,
+                            1110
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82740"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1769,
+                            1151
+                        ],
+                        [
+                            2003,
+                            1387
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82741"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2653,
+                            6603
+                        ],
+                        [
+                            2854,
+                            6809
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82742"
+                },
+                {
+                    "coordinates": [
+                        [
+                            75,
+                            5773
+                        ],
+                        [
+                            290,
+                            6060
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82743"
+                }
+            ],
+            "width": 2909
+        }
+    },
+    "CH-001319-0.Obj.37236": {
+        "RCH 1175i.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37236",
+            "artwork_image": "RCH 1175i.jpg",
+            "height": 6115,
+            "stamps": [],
+            "width": 8219
+        }
+    },
+    "CH-001319-0.Obj.37282": {
+        "RCH 1168b.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37282",
+            "artwork_image": "RCH 1168b.jpg",
+            "height": 3125,
+            "stamps": [],
+            "width": 4612
+        }
+    },
+    "CH-001319-0.Obj.37297": {
+        "RCH 1159.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37297",
+            "artwork_image": "RCH 1159.jpg",
+            "height": 6968,
+            "stamps": [],
+            "width": 3399
+        }
+    },
+    "CH-001319-0.Obj.37298": {
+        "RCH 1137.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37298",
+            "artwork_image": "RCH 1137.jpg",
+            "height": 8150,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            477,
+                            2292
+                        ],
+                        [
+                            597,
+                            2468
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83673"
+                },
+                {
+                    "coordinates": [
+                        [
+                            310,
+                            7629
+                        ],
+                        [
+                            498,
+                            7834
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83674"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3887,
+                            7299
+                        ],
+                        [
+                            4005,
+                            7443
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83675"
+                }
+            ],
+            "width": 4370
+        }
+    },
+    "CH-001319-0.Obj.37301": {
+        "RCH 1179f.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.37301",
+            "artwork_image": "RCH 1179f.JPG",
+            "height": 1612,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            560,
+                            177
+                        ],
+                        [
+                            659,
+                            276
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89731"
+                }
+            ],
+            "width": 2289
+        }
+    },
+    "CH-001319-0.Obj.37303": {
+        "RCH 1175f.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37303",
+            "artwork_image": "RCH 1175f.jpg",
+            "height": 6134,
+            "stamps": [],
+            "width": 8165
+        }
+    },
+    "CH-001319-0.Obj.37328": {
+        "RCH 1143.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37328",
+            "artwork_image": "RCH 1143.jpg",
+            "height": 8622,
+            "stamps": [],
+            "width": 3722
+        }
+    },
+    "CH-001319-0.Obj.37386": {
+        "RCH 1172.1 Siegel.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37386",
+            "artwork_image": "RCH 1172.1 Siegel.jpg",
+            "height": 216,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            22,
+                            57
+                        ],
+                        [
+                            131,
+                            171
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.81963"
+                }
+            ],
+            "width": 171
+        },
+        "RCH 1172.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37386",
+            "artwork_image": "RCH 1172.jpg",
+            "height": 4498,
+            "stamps": [],
+            "width": 7188
+        }
+    },
+    "CH-001319-0.Obj.37394": {
+        "RCH 1165g.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37394",
+            "artwork_image": "RCH 1165g.jpg",
+            "height": 6444,
+            "stamps": [],
+            "width": 5230
+        }
+    },
+    "CH-001319-0.Obj.37396": {
+        "RCH 1170i.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37396",
+            "artwork_image": "RCH 1170i.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            435,
+                            2795
+                        ],
+                        [
+                            604,
+                            3022
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89321"
+                },
+                {
+                    "coordinates": [
+                        [
+                            365,
+                            4456
+                        ],
+                        [
+                            738,
+                            4805
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89322"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7245,
+                            1317
+                        ],
+                        [
+                            7874,
+                            1932
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89323"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.37435": {
+        "RCH 1236e.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37435",
+            "artwork_image": "RCH 1236e.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.37437": {
+        "RCH 1179d.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.37437",
+            "artwork_image": "RCH 1179d.JPG",
+            "height": 1618,
+            "stamps": [],
+            "width": 2322
+        }
+    },
+    "CH-001319-0.Obj.37477": {
+        "RCH 1170d.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37477",
+            "artwork_image": "RCH 1170d.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            7135,
+                            3565
+                        ],
+                        [
+                            7314,
+                            3789
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89297"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7100,
+                            3915
+                        ],
+                        [
+                            7330,
+                            4138
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89298"
+                },
+                {
+                    "coordinates": [
+                        [
+                            341,
+                            3571
+                        ],
+                        [
+                            700,
+                            3920
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89299"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7713,
+                            4175
+                        ],
+                        [
+                            7906,
+                            4371
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89301"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7661,
+                            4463
+                        ],
+                        [
+                            7896,
+                            4700
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89303"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7693,
+                            4701
+                        ],
+                        [
+                            7847,
+                            4944
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89304"
+                },
+                {
+                    "coordinates": [
+                        [
+                            391,
+                            1782
+                        ],
+                        [
+                            634,
+                            2260
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89305"
+                },
+                {
+                    "coordinates": [
+                        [
+                            381,
+                            4145
+                        ],
+                        [
+                            617,
+                            4394
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89306"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.37482": {
+        "RCH 1140c.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.37482",
+            "artwork_image": "RCH 1140c.JPG",
+            "height": 1773,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            2464,
+                            1490
+                        ],
+                        [
+                            2521,
+                            1544
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84991"
+                }
+            ],
+            "width": 2598
+        }
+    },
+    "CH-001319-0.Obj.37492": {
+        "RCH 1148a.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.37492",
+            "artwork_image": "RCH 1148a.JPG",
+            "height": 1884,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1239,
+                            257
+                        ],
+                        [
+                            1326,
+                            345
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84955"
+                }
+            ],
+            "width": 1839
+        }
+    },
+    "CH-001319-0.Obj.37531": {
+        "RCH 1175h.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37531",
+            "artwork_image": "RCH 1175h.jpg",
+            "height": 6137,
+            "stamps": [],
+            "width": 8176
+        }
+    },
+    "CH-001319-0.Obj.37620": {
+        "RCH 1145.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37620",
+            "artwork_image": "RCH 1145.jpg",
+            "height": 7098,
+            "stamps": [],
+            "width": 2748
+        }
+    },
+    "CH-001319-0.Obj.37653": {
+        "RCH 1180f.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37653",
+            "artwork_image": "RCH 1180f.jpg",
+            "height": 6208,
+            "stamps": [],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.37735": {
+        "RCH 1165d.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37735",
+            "artwork_image": "RCH 1165d.jpg",
+            "height": 6440,
+            "stamps": [],
+            "width": 5149
+        }
+    },
+    "CH-001319-0.Obj.37752": {},
+    "CH-001319-0.Obj.37794": {
+        "RCH 1165h.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37794",
+            "artwork_image": "RCH 1165h.jpg",
+            "height": 6368,
+            "stamps": [],
+            "width": 5149
+        }
+    },
+    "CH-001319-0.Obj.37798": {
+        "RCH 1168i.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37798",
+            "artwork_image": "RCH 1168i.jpg",
+            "height": 3109,
+            "stamps": [],
+            "width": 4600
+        }
+    },
+    "CH-001319-0.Obj.37803": {
+        "RCH 1236d.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37803",
+            "artwork_image": "RCH 1236d.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.37835": {
+        "RCH 1178a.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.37835",
+            "artwork_image": "RCH 1178a.JPG",
+            "height": 2358,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1009,
+                            558
+                        ],
+                        [
+                            1078,
+                            629
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89712"
+                }
+            ],
+            "width": 1674
+        }
+    },
+    "CH-001319-0.Obj.37852": {
+        "RCH 1021.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37852",
+            "artwork_image": "RCH 1021.jpg",
+            "height": 8118,
+            "stamps": [],
+            "width": 3651
+        },
+        "RCH 1021_1.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37852",
+            "artwork_image": "RCH 1021_1.jpg",
+            "height": 928,
+            "stamps": [],
+            "width": 393
+        },
+        "RCH 1021_IMG_6103.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.37852",
+            "artwork_image": "RCH 1021_IMG_6103.JPG",
+            "height": 2448,
+            "stamps": [],
+            "width": 3264
+        }
+    },
+    "CH-001319-0.Obj.37885": {},
+    "CH-001319-0.Obj.37918": {
+        "RCH 1170k.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37918",
+            "artwork_image": "RCH 1170k.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            5921,
+                            1965
+                        ],
+                        [
+                            6108,
+                            2184
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89327"
+                },
+                {
+                    "coordinates": [
+                        [
+                            5900,
+                            2274
+                        ],
+                        [
+                            6134,
+                            2506
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89328"
+                },
+                {
+                    "coordinates": [
+                        [
+                            389,
+                            4611
+                        ],
+                        [
+                            716,
+                            4940
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89329"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.37951": {
+        "RCH 1179h.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.37951",
+            "artwork_image": "RCH 1179h.JPG",
+            "height": 1606,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1644,
+                            236
+                        ],
+                        [
+                            1732,
+                            332
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89732"
+                }
+            ],
+            "width": 2304
+        }
+    },
+    "CH-001319-0.Obj.37958": {
+        "RCH 1170o.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37958",
+            "artwork_image": "RCH 1170o.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            510,
+                            3605
+                        ],
+                        [
+                            723,
+                            3807
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89337"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7734,
+                            1383
+                        ],
+                        [
+                            7881,
+                            1781
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89338"
+                },
+                {
+                    "coordinates": [
+                        [
+                            348,
+                            3838
+                        ],
+                        [
+                            523,
+                            4201
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89339"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.37966": {
+        "RCH 1165a.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.37966",
+            "artwork_image": "RCH 1165a.jpg",
+            "height": 6456,
+            "stamps": [],
+            "width": 4998
+        }
+    },
+    "CH-001319-0.Obj.38012": {
+        "RCH 1179a.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.38012",
+            "artwork_image": "RCH 1179a.JPG",
+            "height": 1654,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            660,
+                            294
+                        ],
+                        [
+                            751,
+                            386
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89725"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2110,
+                            1408
+                        ],
+                        [
+                            2286,
+                            1584
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89726"
+                },
+                {
+                    "coordinates": [
+                        [
+                            76,
+                            1469
+                        ],
+                        [
+                            190,
+                            1580
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89727"
+                }
+            ],
+            "width": 2374
+        }
+    },
+    "CH-001319-0.Obj.38013": {
+        "RCH 1176f.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38013",
+            "artwork_image": "RCH 1176f.jpg",
+            "height": 6076,
+            "stamps": [],
+            "width": 8143
+        }
+    },
+    "CH-001319-0.Obj.38029": {
+        "RCH 1176c.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38029",
+            "artwork_image": "RCH 1176c.jpg",
+            "height": 6035,
+            "stamps": [],
+            "width": 8087
+        }
+    },
+    "CH-001319-0.Obj.38032": {
+        "RCH 1168h.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38032",
+            "artwork_image": "RCH 1168h.jpg",
+            "height": 3129,
+            "stamps": [],
+            "width": 4664
+        }
+    },
+    "CH-001319-0.Obj.38052": {
+        "RCH 1152.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38052",
+            "artwork_image": "RCH 1152.jpg",
+            "height": 8120,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            388,
+                            1162
+                        ],
+                        [
+                            572,
+                            1339
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.85607"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3776,
+                            7056
+                        ],
+                        [
+                            3901,
+                            7235
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.85608"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3701,
+                            7282
+                        ],
+                        [
+                            3905,
+                            7485
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.85609"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3757,
+                            7551
+                        ],
+                        [
+                            3894,
+                            7826
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.85610"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3554,
+                            7666
+                        ],
+                        [
+                            3726,
+                            7843
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.85611"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3399,
+                            7702
+                        ],
+                        [
+                            3521,
+                            7825
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.85612"
+                },
+                {
+                    "coordinates": [
+                        [
+                            638,
+                            7615
+                        ],
+                        [
+                            790,
+                            7854
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.85613"
+                },
+                {
+                    "coordinates": [
+                        [
+                            540,
+                            7564
+                        ],
+                        [
+                            642,
+                            7804
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.85614"
+                },
+                {
+                    "coordinates": [
+                        [
+                            301,
+                            7567
+                        ],
+                        [
+                            511,
+                            7811
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.85615"
+                }
+            ],
+            "width": 4134
+        }
+    },
+    "CH-001319-0.Obj.38058": {
+        "RCH 1136b.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38058",
+            "artwork_image": "RCH 1136b.jpg",
+            "height": 7974,
+            "stamps": [],
+            "width": 10630
+        }
+    },
+    "CH-001319-0.Obj.38086": {
+        "RCH 1153.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38086",
+            "artwork_image": "RCH 1153.jpg",
+            "height": 6060,
+            "stamps": [],
+            "width": 8057
+        }
+    },
+    "CH-001319-0.Obj.38088": {
+        "RCH 1175k.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38088",
+            "artwork_image": "RCH 1175k.jpg",
+            "height": 6118,
+            "stamps": [],
+            "width": 8213
+        }
+    },
+    "CH-001319-0.Obj.38110": {
+        "RCH 1162b.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38110",
+            "artwork_image": "RCH 1162b.jpg",
+            "height": 6168,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            2234,
+                            1112
+                        ],
+                        [
+                            2494,
+                            1411
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86662"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6869,
+                            5485
+                        ],
+                        [
+                            7158,
+                            5774
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86663"
+                }
+            ],
+            "width": 8218
+        }
+    },
+    "CH-001319-0.Obj.38118": {
+        "RCH 1148g.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.38118",
+            "artwork_image": "RCH 1148g.JPG",
+            "height": 1914,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            52,
+                            426
+                        ],
+                        [
+                            156,
+                            533
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84959"
+                }
+            ],
+            "width": 1861
+        }
+    },
+    "CH-001319-0.Obj.38194": {
+        "RCH 1140d.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.38194",
+            "artwork_image": "RCH 1140d.JPG",
+            "height": 1723,
+            "stamps": [],
+            "width": 2541
+        }
+    },
+    "CH-001319-0.Obj.38196": {},
+    "CH-001319-0.Obj.38260": {
+        "RCH 1179b.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.38260",
+            "artwork_image": "RCH 1179b.JPG",
+            "height": 1609,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1380,
+                            384
+                        ],
+                        [
+                            1461,
+                            465
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89728"
+                }
+            ],
+            "width": 2307
+        }
+    },
+    "CH-001319-0.Obj.38310": {
+        "RCH 1134.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38310",
+            "artwork_image": "RCH 1134.jpg",
+            "height": 5484,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6731,
+                            1318
+                        ],
+                        [
+                            6850,
+                            1486
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83639"
+                },
+                {
+                    "coordinates": [
+                        [
+                            554,
+                            3063
+                        ],
+                        [
+                            682,
+                            3291
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83640"
+                },
+                {
+                    "coordinates": [
+                        [
+                            526,
+                            3465
+                        ],
+                        [
+                            685,
+                            3634
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83641"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7068,
+                            3493
+                        ],
+                        [
+                            7207,
+                            3634
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83642"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7047,
+                            3678
+                        ],
+                        [
+                            7239,
+                            3879
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83643"
+                },
+                {
+                    "coordinates": [
+                        [
+                            271,
+                            3307
+                        ],
+                        [
+                            373,
+                            3502
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83644"
+                },
+                {
+                    "coordinates": [
+                        [
+                            266,
+                            3573
+                        ],
+                        [
+                            373,
+                            3681
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83645"
+                },
+                {
+                    "coordinates": [
+                        [
+                            247,
+                            3744
+                        ],
+                        [
+                            399,
+                            3893
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83646"
+                },
+                {
+                    "coordinates": [
+                        [
+                            37,
+                            1289
+                        ],
+                        [
+                            219,
+                            1523
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83647"
+                }
+            ],
+            "width": 7320
+        },
+        "RCH 1134_1.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38310",
+            "artwork_image": "RCH 1134_1.jpg",
+            "height": 5484,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6731,
+                            1318
+                        ],
+                        [
+                            6850,
+                            1486
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83639"
+                },
+                {
+                    "coordinates": [
+                        [
+                            554,
+                            3063
+                        ],
+                        [
+                            682,
+                            3291
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83640"
+                },
+                {
+                    "coordinates": [
+                        [
+                            526,
+                            3465
+                        ],
+                        [
+                            685,
+                            3634
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83641"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7068,
+                            3493
+                        ],
+                        [
+                            7207,
+                            3634
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83642"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7047,
+                            3678
+                        ],
+                        [
+                            7239,
+                            3879
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83643"
+                },
+                {
+                    "coordinates": [
+                        [
+                            271,
+                            3307
+                        ],
+                        [
+                            373,
+                            3502
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83644"
+                },
+                {
+                    "coordinates": [
+                        [
+                            266,
+                            3573
+                        ],
+                        [
+                            373,
+                            3681
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83645"
+                },
+                {
+                    "coordinates": [
+                        [
+                            247,
+                            3744
+                        ],
+                        [
+                            399,
+                            3893
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83646"
+                },
+                {
+                    "coordinates": [
+                        [
+                            37,
+                            1289
+                        ],
+                        [
+                            219,
+                            1523
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83647"
+                }
+            ],
+            "width": 7320
+        },
+        "RCH 1134_2.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38310",
+            "artwork_image": "RCH 1134_2.jpg",
+            "height": 5484,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6872,
+                            3759
+                        ],
+                        [
+                            7045,
+                            3922
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83648"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7089,
+                            3427
+                        ],
+                        [
+                            7246,
+                            3601
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83651"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7078,
+                            3725
+                        ],
+                        [
+                            7255,
+                            3902
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83652"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6937,
+                            3212
+                        ],
+                        [
+                            7047,
+                            3324
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83653"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6850,
+                            3321
+                        ],
+                        [
+                            7008,
+                            3493
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83654"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6948,
+                            3525
+                        ],
+                        [
+                            7046,
+                            3684
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83655"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6628,
+                            3409
+                        ],
+                        [
+                            6751,
+                            3569
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83656"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6569,
+                            3617
+                        ],
+                        [
+                            6797,
+                            3884
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83657"
+                }
+            ],
+            "width": 7320
+        },
+        "RCH 1134_3.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38310",
+            "artwork_image": "RCH 1134_3.jpg",
+            "height": 5484,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            278,
+                            3267
+                        ],
+                        [
+                            430,
+                            3424
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83649"
+                },
+                {
+                    "coordinates": [
+                        [
+                            283,
+                            3474
+                        ],
+                        [
+                            472,
+                            3662
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83650"
+                },
+                {
+                    "coordinates": [
+                        [
+                            450,
+                            3773
+                        ],
+                        [
+                            546,
+                            3923
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83658"
+                },
+                {
+                    "coordinates": [
+                        [
+                            224,
+                            3748
+                        ],
+                        [
+                            413,
+                            3938
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83659"
+                },
+                {
+                    "coordinates": [
+                        [
+                            73,
+                            3566
+                        ],
+                        [
+                            214,
+                            3841
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83660"
+                }
+            ],
+            "width": 7320
+        },
+        "RCH 1134_4.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38310",
+            "artwork_image": "RCH 1134_4.jpg",
+            "height": 5484,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            5544,
+                            3238
+                        ],
+                        [
+                            5696,
+                            3395
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83649"
+                },
+                {
+                    "coordinates": [
+                        [
+                            5548,
+                            3444
+                        ],
+                        [
+                            5737,
+                            3632
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83650"
+                },
+                {
+                    "coordinates": [
+                        [
+                            5712,
+                            3742
+                        ],
+                        [
+                            5808,
+                            3892
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83658"
+                },
+                {
+                    "coordinates": [
+                        [
+                            5339,
+                            3535
+                        ],
+                        [
+                            5480,
+                            3810
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83660"
+                },
+                {
+                    "coordinates": [
+                        [
+                            4783,
+                            3339
+                        ],
+                        [
+                            4970,
+                            3526
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83661"
+                },
+                {
+                    "coordinates": [
+                        [
+                            4787,
+                            3616
+                        ],
+                        [
+                            4972,
+                            3799
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83662"
+                },
+                {
+                    "coordinates": [
+                        [
+                            4316,
+                            2982
+                        ],
+                        [
+                            4415,
+                            3079
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83663"
+                },
+                {
+                    "coordinates": [
+                        [
+                            4317,
+                            3183
+                        ],
+                        [
+                            4412,
+                            3277
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83664"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1551,
+                            2511
+                        ],
+                        [
+                            1651,
+                            2615
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83665"
+                },
+                {
+                    "coordinates": [
+                        [
+                            1519,
+                            2694
+                        ],
+                        [
+                            1693,
+                            2867
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83666"
+                }
+            ],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.38312": {
+        "RCH 1180j.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38312",
+            "artwork_image": "RCH 1180j.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            5901,
+                            1723
+                        ],
+                        [
+                            6155,
+                            1982
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89750"
+                },
+                {
+                    "coordinates": [
+                        [
+                            854,
+                            2239
+                        ],
+                        [
+                            1015,
+                            2406
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89751"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7302,
+                            4955
+                        ],
+                        [
+                            7438,
+                            5360
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89752"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.38371": {
+        "RCH 1175b.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38371",
+            "artwork_image": "RCH 1175b.jpg",
+            "height": 6097,
+            "stamps": [],
+            "width": 8178
+        }
+    },
+    "CH-001319-0.Obj.38382": {
+        "RCH 1170s.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38382",
+            "artwork_image": "RCH 1170s.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            300,
+                            4544
+                        ],
+                        [
+                            893,
+                            5128
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89350"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7600,
+                            4520
+                        ],
+                        [
+                            7851,
+                            4774
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89351"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7589,
+                            4828
+                        ],
+                        [
+                            7849,
+                            5089
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89352"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.38431": {
+        "RCH 1175d.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38431",
+            "artwork_image": "RCH 1175d.jpg",
+            "height": 6117,
+            "stamps": [],
+            "width": 8150
+        }
+    },
+    "CH-001319-0.Obj.38480": {
+        "RCH 1170r.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38480",
+            "artwork_image": "RCH 1170r.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6319,
+                            1819
+                        ],
+                        [
+                            6535,
+                            2074
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89347"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6294,
+                            2106
+                        ],
+                        [
+                            6534,
+                            2378
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89348"
+                },
+                {
+                    "coordinates": [
+                        [
+                            318,
+                            4418
+                        ],
+                        [
+                            592,
+                            5057
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89349"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.38495": {
+        "RCH 1136c.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38495",
+            "artwork_image": "RCH 1136c.jpg",
+            "height": 7974,
+            "stamps": [],
+            "width": 10630
+        }
+    },
+    "CH-001319-0.Obj.38514": {
+        "RCH 1168c.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38514",
+            "artwork_image": "RCH 1168c.jpg",
+            "height": 1312,
+            "stamps": [],
+            "width": 1920
+        }
+    },
+    "CH-001319-0.Obj.38554": {
+        "RCH 1167.1.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.1.jpg",
+            "height": 4518,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6839,
+                            1578
+                        ],
+                        [
+                            6969,
+                            1774
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88209"
+                },
+                {
+                    "coordinates": [
+                        [
+                            353,
+                            2077
+                        ],
+                        [
+                            461,
+                            2186
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88210"
+                },
+                {
+                    "coordinates": [
+                        [
+                            355,
+                            2445
+                        ],
+                        [
+                            455,
+                            2543
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88211"
+                }
+            ],
+            "width": 7320
+        },
+        "RCH 1167.10.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.10.jpg",
+            "height": 4434,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1167.11.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.11.jpg",
+            "height": 4416,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1167.12.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.12.jpg",
+            "height": 4422,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1167.13.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.13.jpg",
+            "height": 4524,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1167.14.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.14.jpg",
+            "height": 4464,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1167.15.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.15.jpg",
+            "height": 4352,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1167.2.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.2.jpg",
+            "height": 4482,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            5161,
+                            1654
+                        ],
+                        [
+                            5212,
+                            1704
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88215"
+                }
+            ],
+            "width": 7320
+        },
+        "RCH 1167.3.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.3.jpg",
+            "height": 4422,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1167.4.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.4.jpg",
+            "height": 4380,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1167.5.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.5.jpg",
+            "height": 4464,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            2700,
+                            1696
+                        ],
+                        [
+                            2751,
+                            1746
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.88215"
+                }
+            ],
+            "width": 7320
+        },
+        "RCH 1167.6.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.6.jpg",
+            "height": 4350,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1167.7.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.7.jpg",
+            "height": 4398,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1167.8.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.8.jpg",
+            "height": 4392,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1167.9.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167.9.jpg",
+            "height": 4452,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1167_1.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_1.jpg",
+            "height": 1279,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_10.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_10.jpg",
+            "height": 1214,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_11.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_11.jpg",
+            "height": 1224,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_12.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_12.jpg",
+            "height": 1247,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_13.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_13.jpg",
+            "height": 1268,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_14.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_14.jpg",
+            "height": 1260,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_2.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_2.jpg",
+            "height": 1243,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_3.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_3.jpg",
+            "height": 1217,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_4.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_4.jpg",
+            "height": 1220,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_5.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_5.jpg",
+            "height": 1210,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_6.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_6.jpg",
+            "height": 1194,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_7.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_7.jpg",
+            "height": 1206,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_8.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_8.jpg",
+            "height": 1208,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1167_9.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38554",
+            "artwork_image": "RCH 1167_9.jpg",
+            "height": 1161,
+            "stamps": [],
+            "width": 4134
+        }
+    },
+    "CH-001319-0.Obj.38619": {
+        "RCH 1140f.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.38619",
+            "artwork_image": "RCH 1140f.JPG",
+            "height": 1782,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1180,
+                            131
+                        ],
+                        [
+                            1234,
+                            293
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84992"
+                },
+                {
+                    "coordinates": [
+                        [
+                            104,
+                            1311
+                        ],
+                        [
+                            178,
+                            1385
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84993"
+                },
+                {
+                    "coordinates": [
+                        [
+                            110,
+                            1421
+                        ],
+                        [
+                            186,
+                            1496
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.84994"
+                }
+            ],
+            "width": 2634
+        }
+    },
+    "CH-001319-0.Obj.38620": {
+        "RCH 1180h.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38620",
+            "artwork_image": "RCH 1180h.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            993,
+                            1340
+                        ],
+                        [
+                            1267,
+                            1623
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89749"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.38627": {
+        "RCH 1180a.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38627",
+            "artwork_image": "RCH 1180a.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            7703,
+                            4332
+                        ],
+                        [
+                            7968,
+                            4785
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89742"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7699,
+                            4845
+                        ],
+                        [
+                            7986,
+                            5126
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89743"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7673,
+                            5314
+                        ],
+                        [
+                            8031,
+                            5671
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89744"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.38693": {
+        "RCH 1179c.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.38693",
+            "artwork_image": "RCH 1179c.JPG",
+            "height": 1663,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            109,
+                            358
+                        ],
+                        [
+                            195,
+                            444
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89729"
+                }
+            ],
+            "width": 2400
+        }
+    },
+    "CH-001319-0.Obj.38734": {
+        "RCH 1166.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38734",
+            "artwork_image": "RCH 1166.jpg",
+            "height": 7320,
+            "stamps": [],
+            "width": 2127
+        }
+    },
+    "CH-001319-0.Obj.38742": {
+        "RCH 1154.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38742",
+            "artwork_image": "RCH 1154.jpg",
+            "height": 7280,
+            "stamps": [],
+            "width": 2565
+        }
+    },
+    "CH-001319-0.Obj.38749": {
+        "RCH 1236c.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38749",
+            "artwork_image": "RCH 1236c.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.38753": {
+        "RCH 1148e.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.38753",
+            "artwork_image": "RCH 1148e.JPG",
+            "height": 1878,
+            "stamps": [],
+            "width": 1852
+        }
+    },
+    "CH-001319-0.Obj.38771": {
+        "RCH 1178g.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.38771",
+            "artwork_image": "RCH 1178g.JPG",
+            "height": 2460,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            363,
+                            579
+                        ],
+                        [
+                            470,
+                            690
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89718"
+                }
+            ],
+            "width": 1738
+        }
+    },
+    "CH-001319-0.Obj.38832": {
+        "RCH 1165c.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38832",
+            "artwork_image": "RCH 1165c.jpg",
+            "height": 6463,
+            "stamps": [],
+            "width": 5102
+        }
+    },
+    "CH-001319-0.Obj.38838": {
+        "RCH 1179l.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.38838",
+            "artwork_image": "RCH 1179l.JPG",
+            "height": 1687,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            168,
+                            1061
+                        ],
+                        [
+                            240,
+                            1133
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89735"
+                },
+                {
+                    "coordinates": [
+                        [
+                            169,
+                            1140
+                        ],
+                        [
+                            242,
+                            1213
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89736"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2223,
+                            1454
+                        ],
+                        [
+                            2328,
+                            1559
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89737"
+                }
+            ],
+            "width": 2412
+        }
+    },
+    "CH-001319-0.Obj.38849": {
+        "RCH 1176a.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38849",
+            "artwork_image": "RCH 1176a.jpg",
+            "height": 6130,
+            "stamps": [],
+            "width": 8213
+        }
+    },
+    "CH-001319-0.Obj.38892": {
+        "RCH 1162e.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38892",
+            "artwork_image": "RCH 1162e.jpg",
+            "height": 6144,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            4203,
+                            1010
+                        ],
+                        [
+                            4449,
+                            1248
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86666"
+                },
+                {
+                    "coordinates": [
+                        [
+                            4207,
+                            1354
+                        ],
+                        [
+                            4450,
+                            1598
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.86667"
+                }
+            ],
+            "width": 8186
+        }
+    },
+    "CH-001319-0.Obj.38916": {
+        "RCH 1170g.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38916",
+            "artwork_image": "RCH 1170g.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6935,
+                            2040
+                        ],
+                        [
+                            7165,
+                            2305
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89315"
+                },
+                {
+                    "coordinates": [
+                        [
+                            366,
+                            4550
+                        ],
+                        [
+                            722,
+                            4919
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89316"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7592,
+                            3461
+                        ],
+                        [
+                            7860,
+                            3941
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89317"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.38948": {
+        "RCH 1020.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38948",
+            "artwork_image": "RCH 1020.jpg",
+            "height": 2113,
+            "stamps": [],
+            "width": 4370
+        },
+        "RCH 1020_1.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38948",
+            "artwork_image": "RCH 1020_1.jpg",
+            "height": 6208,
+            "stamps": [],
+            "width": 8280
+        },
+        "RCH 1020_2.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38948",
+            "artwork_image": "RCH 1020_2.jpg",
+            "height": 6208,
+            "stamps": [],
+            "width": 8280
+        },
+        "RCH 1020_3.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38948",
+            "artwork_image": "RCH 1020_3.jpg",
+            "height": 6208,
+            "stamps": [],
+            "width": 8280
+        },
+        "RCH 1020_4.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38948",
+            "artwork_image": "RCH 1020_4.jpg",
+            "height": 6208,
+            "stamps": [],
+            "width": 8280
+        },
+        "RCH 1020_5.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38948",
+            "artwork_image": "RCH 1020_5.jpg",
+            "height": 6208,
+            "stamps": [],
+            "width": 8280
+        },
+        "RCH 1020_RBW5662_a.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38948",
+            "artwork_image": "RCH 1020_RBW5662_a.jpg",
+            "height": 576,
+            "stamps": [],
+            "width": 861
+        },
+        "RCH 1020_RBW5663_b.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38948",
+            "artwork_image": "RCH 1020_RBW5663_b.jpg",
+            "height": 574,
+            "stamps": [],
+            "width": 884
+        },
+        "RCH 1020_RBW5664_c.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38948",
+            "artwork_image": "RCH 1020_RBW5664_c.jpg",
+            "height": 571,
+            "stamps": [],
+            "width": 874
+        },
+        "RCH 1020_RBW5665.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38948",
+            "artwork_image": "RCH 1020_RBW5665.jpg",
+            "height": 373,
+            "stamps": [],
+            "width": 832
+        }
+    },
+    "CH-001319-0.Obj.38952": {
+        "RCH 1175l.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38952",
+            "artwork_image": "RCH 1175l.jpg",
+            "height": 6097,
+            "stamps": [],
+            "width": 8210
+        }
+    },
+    "CH-001319-0.Obj.38968": {
+        "RCH 1019.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38968",
+            "artwork_image": "RCH 1019.jpg",
+            "height": 1787,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            4121,
+                            355
+                        ],
+                        [
+                            4233,
+                            467
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82748"
+                },
+                {
+                    "coordinates": [
+                        [
+                            4109,
+                            1188
+                        ],
+                        [
+                            4236,
+                            1316
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82749"
+                },
+                {
+                    "coordinates": [
+                        [
+                            703,
+                            1077
+                        ],
+                        [
+                            817,
+                            1171
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82750"
+                },
+                {
+                    "coordinates": [
+                        [
+                            711,
+                            1198
+                        ],
+                        [
+                            817,
+                            1308
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82751"
+                }
+            ],
+            "width": 4370
+        },
+        "RCH 1019_1.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38968",
+            "artwork_image": "RCH 1019_1.jpg",
+            "height": 5428,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1019_2.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38968",
+            "artwork_image": "RCH 1019_2.jpg",
+            "height": 5424,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6600,
+                            1712
+                        ],
+                        [
+                            7018,
+                            2222
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82752"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6654,
+                            2362
+                        ],
+                        [
+                            6975,
+                            2810
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82753"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6632,
+                            2948
+                        ],
+                        [
+                            6994,
+                            3311
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82754"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6957,
+                            3710
+                        ],
+                        [
+                            7158,
+                            3917
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82755"
+                }
+            ],
+            "width": 7320
+        },
+        "RCH 1019_3.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38968",
+            "artwork_image": "RCH 1019_3.jpg",
+            "height": 5424,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            4350,
+                            1766
+                        ],
+                        [
+                            4504,
+                            2022
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82756"
+                },
+                {
+                    "coordinates": [
+                        [
+                            4318,
+                            2092
+                        ],
+                        [
+                            4538,
+                            2314
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.82757"
+                },
+                {
+                    "coordinates": [
+                        [
+                            904,
+                            3369
+                        ],
+                        [
+                            1148,
+                            3611
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83625"
+                }
+            ],
+            "width": 7320
+        },
+        "RCH 1019_4.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38968",
+            "artwork_image": "RCH 1019_4.jpg",
+            "height": 5437,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6858,
+                            1955
+                        ],
+                        [
+                            7005,
+                            2268
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83626"
+                },
+                {
+                    "coordinates": [
+                        [
+                            508,
+                            3601
+                        ],
+                        [
+                            668,
+                            3762
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.83627"
+                }
+            ],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.38973": {
+        "RCH 1180g.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38973",
+            "artwork_image": "RCH 1180g.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1074,
+                            1829
+                        ],
+                        [
+                            1353,
+                            2109
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89748"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.38982": {
+        "RCH 1180b.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.38982",
+            "artwork_image": "RCH 1180b.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6651,
+                            1110
+                        ],
+                        [
+                            6914,
+                            1374
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89745"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.39007": {
+        "RCH 1135.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39007",
+            "artwork_image": "RCH 1135.jpg",
+            "height": 4552,
+            "stamps": [],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.39012": {
+        "RCH 1148f.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.39012",
+            "artwork_image": "RCH 1148f.JPG",
+            "height": 1935,
+            "stamps": [],
+            "width": 1884
+        }
+    },
+    "CH-001319-0.Obj.39037": {
+        "RCH 1178c.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.39037",
+            "artwork_image": "RCH 1178c.JPG",
+            "height": 2359,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            987,
+                            570
+                        ],
+                        [
+                            1057,
+                            640
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89714"
+                }
+            ],
+            "width": 1678
+        }
+    },
+    "CH-001319-0.Obj.39049": {
+        "RCH 1178b.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.39049",
+            "artwork_image": "RCH 1178b.JPG",
+            "height": 2400,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1014,
+                            571
+                        ],
+                        [
+                            1110,
+                            668
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89713"
+                }
+            ],
+            "width": 1692
+        }
+    },
+    "CH-001319-0.Obj.39076": {
+        "RCH 1168f.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39076",
+            "artwork_image": "RCH 1168f.jpg",
+            "height": 2241,
+            "stamps": [],
+            "width": 3307
+        }
+    },
+    "CH-001319-0.Obj.39077": {
+        "RCH 1236a.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39077",
+            "artwork_image": "RCH 1236a.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.39133": {
+        "RCH 1178h.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.39133",
+            "artwork_image": "RCH 1178h.JPG",
+            "height": 2352,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1192,
+                            294
+                        ],
+                        [
+                            1276,
+                            380
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89719"
+                }
+            ],
+            "width": 1669
+        }
+    },
+    "CH-001319-0.Obj.39145": {
+        "RCH 1176e.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39145",
+            "artwork_image": "RCH 1176e.jpg",
+            "height": 6081,
+            "stamps": [],
+            "width": 8183
+        }
+    },
+    "CH-001319-0.Obj.39149": {
+        "RCH 1178d.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.39149",
+            "artwork_image": "RCH 1178d.JPG",
+            "height": 2415,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            243,
+                            379
+                        ],
+                        [
+                            335,
+                            533
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89715"
+                }
+            ],
+            "width": 1714
+        }
+    },
+    "CH-001319-0.Obj.39159": {
+        "RCH 1168g.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39159",
+            "artwork_image": "RCH 1168g.jpg",
+            "height": 1322,
+            "stamps": [],
+            "width": 1920
+        }
+    },
+    "CH-001319-0.Obj.39184": {
+        "RCH 1162d.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39184",
+            "artwork_image": "RCH 1162d.jpg",
+            "height": 6153,
+            "stamps": [],
+            "width": 8188
+        }
+    },
+    "CH-001319-0.Obj.39261": {
+        "RCH 1170e.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39261",
+            "artwork_image": "RCH 1170e.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            779,
+                            2434
+                        ],
+                        [
+                            1052,
+                            2720
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89307"
+                },
+                {
+                    "coordinates": [
+                        [
+                            750,
+                            2819
+                        ],
+                        [
+                            1068,
+                            3138
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89308"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7573,
+                            4646
+                        ],
+                        [
+                            7911,
+                            4987
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89309"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7518,
+                            1406
+                        ],
+                        [
+                            7847,
+                            2014
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89310"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.39317": {
+        "RCH 1169.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39317",
+            "artwork_image": "RCH 1169.jpg",
+            "height": 8143,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            610,
+                            2549
+                        ],
+                        [
+                            681,
+                            2612
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.87048"
+                },
+                {
+                    "coordinates": [
+                        [
+                            610,
+                            2619
+                        ],
+                        [
+                            680,
+                            2680
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.87049"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3526,
+                            6172
+                        ],
+                        [
+                            3581,
+                            6280
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.87050"
+                },
+                {
+                    "coordinates": [
+                        [
+                            3721,
+                            7716
+                        ],
+                        [
+                            3784,
+                            7779
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.87051"
+                }
+            ],
+            "width": 4292
+        }
+    },
+    "CH-001319-0.Obj.39327": {
+        "RCH 1177b.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39327",
+            "artwork_image": "RCH 1177b.jpg",
+            "height": 5493,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            3628,
+                            850
+                        ],
+                        [
+                            4050,
+                            1280
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89711"
+                }
+            ],
+            "width": 8091
+        },
+        "RCH 1177b_________ORI.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.39327",
+            "artwork_image": "RCH 1177b_________ORI.JPG",
+            "height": 2370,
+            "stamps": [],
+            "width": 3469
+        }
+    },
+    "CH-001319-0.Obj.39374": {
+        "RCH 1168e.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39374",
+            "artwork_image": "RCH 1168e.jpg",
+            "height": 3137,
+            "stamps": [],
+            "width": 4628
+        }
+    },
+    "CH-001319-0.Obj.39393": {
+        "RCH 1140a.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.39393",
+            "artwork_image": "RCH 1140a.JPG",
+            "height": 1695,
+            "stamps": [],
+            "width": 2502
+        }
+    },
+    "CH-001319-0.Obj.39445": {
+        "RCH 1165b.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39445",
+            "artwork_image": "RCH 1165b.jpg",
+            "height": 6409,
+            "stamps": [],
+            "width": 5166
+        }
+    },
+    "CH-001319-0.Obj.39519": {
+        "RCH 1176d.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39519",
+            "artwork_image": "RCH 1176d.jpg",
+            "height": 5963,
+            "stamps": [],
+            "width": 8063
+        }
+    },
+    "CH-001319-0.Obj.39544": {
+        "RCH 1175a.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39544",
+            "artwork_image": "RCH 1175a.jpg",
+            "height": 6142,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            664,
+                            4315
+                        ],
+                        [
+                            879,
+                            4527
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89682"
+                },
+                {
+                    "coordinates": [
+                        [
+                            656,
+                            4666
+                        ],
+                        [
+                            869,
+                            4887
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89683"
+                }
+            ],
+            "width": 8174
+        }
+    },
+    "CH-001319-0.Obj.39558": {
+        "RCH 1236g.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39558",
+            "artwork_image": "RCH 1236g.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.39648": {
+        "RCH 1148b.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.39648",
+            "artwork_image": "RCH 1148b.JPG",
+            "height": 1893,
+            "stamps": [],
+            "width": 1852
+        }
+    },
+    "CH-001319-0.Obj.39670": {
+        "RCH 1170n.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39670",
+            "artwork_image": "RCH 1170n.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6132,
+                            4063
+                        ],
+                        [
+                            6277,
+                            4294
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89335"
+                },
+                {
+                    "coordinates": [
+                        [
+                            314,
+                            2824
+                        ],
+                        [
+                            708,
+                            3642
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89336"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.39679": {
+        "RCH 1236h.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39679",
+            "artwork_image": "RCH 1236h.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.39714": {
+        "RCH 1178f.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.39714",
+            "artwork_image": "RCH 1178f.JPG",
+            "height": 2349,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            143,
+                            446
+                        ],
+                        [
+                            207,
+                            570
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89717"
+                }
+            ],
+            "width": 1693
+        }
+    },
+    "CH-001319-0.Obj.39742": {},
+    "CH-001319-0.Obj.39750": {
+        "RCH 1131.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39750",
+            "artwork_image": "RCH 1131.jpg",
+            "height": 4488,
+            "stamps": [],
+            "width": 1047
+        }
+    },
+    "CH-001319-0.Obj.39757": {
+        "RCH 1170q.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39757",
+            "artwork_image": "RCH 1170q.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6151,
+                            2742
+                        ],
+                        [
+                            6380,
+                            2974
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89343"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6144,
+                            3052
+                        ],
+                        [
+                            6372,
+                            3281
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89344"
+                },
+                {
+                    "coordinates": [
+                        [
+                            333,
+                            4676
+                        ],
+                        [
+                            710,
+                            5045
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89345"
+                },
+                {
+                    "coordinates": [
+                        [
+                            332,
+                            3218
+                        ],
+                        [
+                            564,
+                            3454
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89346"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.39776": {},
+    "CH-001319-0.Obj.39821": {
+        "RCH 1179i.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.39821",
+            "artwork_image": "RCH 1179i.JPG",
+            "height": 1669,
+            "stamps": [],
+            "width": 2388
+        }
+    },
+    "CH-001319-0.Obj.39822": {
+        "RCH 1170u.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39822",
+            "artwork_image": "RCH 1170u.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            6726,
+                            3367
+                        ],
+                        [
+                            6876,
+                            3555
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89355"
+                },
+                {
+                    "coordinates": [
+                        [
+                            6723,
+                            3650
+                        ],
+                        [
+                            6922,
+                            3900
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89356"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7588,
+                            4479
+                        ],
+                        [
+                            7865,
+                            4763
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89357"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7579,
+                            4836
+                        ],
+                        [
+                            7878,
+                            5144
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89358"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.39829": {
+        "RCH 1150.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39829",
+            "artwork_image": "RCH 1150.jpg",
+            "height": 5369,
+            "stamps": [],
+            "width": 7264
+        }
+    },
+    "CH-001319-0.Obj.39918": {
+        "RCH 1178e.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.39918",
+            "artwork_image": "RCH 1178e.JPG",
+            "height": 2392,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1494,
+                            665
+                        ],
+                        [
+                            1563,
+                            737
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89716"
+                }
+            ],
+            "width": 1706
+        }
+    },
+    "CH-001319-0.Obj.39921": {
+        "RCH 1170h.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39921",
+            "artwork_image": "RCH 1170h.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            465,
+                            2945
+                        ],
+                        [
+                            660,
+                            3238
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89318"
+                },
+                {
+                    "coordinates": [
+                        [
+                            7398,
+                            4391
+                        ],
+                        [
+                            7900,
+                            5009
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89319"
+                },
+                {
+                    "coordinates": [
+                        [
+                            2793,
+                            1456
+                        ],
+                        [
+                            3016,
+                            1912
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89320"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.39956": {
+        "RCH 1180d.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39956",
+            "artwork_image": "RCH 1180d.jpg",
+            "height": 6208,
+            "stamps": [
+                {
+                    "coordinates": [
+                        [
+                            1111,
+                            1929
+                        ],
+                        [
+                            1285,
+                            2216
+                        ]
+                    ],
+                    "stamp_ID": "CH-001319-0.Obj.89747"
+                }
+            ],
+            "width": 8280
+        }
+    },
+    "CH-001319-0.Obj.39975": {
+        "RCH 1176i.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39975",
+            "artwork_image": "RCH 1176i.jpg",
+            "height": 6077,
+            "stamps": [],
+            "width": 8218
+        }
+    },
+    "CH-001319-0.Obj.39978": {
+        "RCH 1023.JPG": {
+            "artwork_ID": "CH-001319-0.Obj.39978",
+            "artwork_image": "RCH 1023.JPG",
+            "height": 602,
+            "stamps": [],
+            "width": 1689
+        },
+        "RCH 1023_1.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39978",
+            "artwork_image": "RCH 1023_1.jpg",
+            "height": 5187,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1023_2.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39978",
+            "artwork_image": "RCH 1023_2.jpg",
+            "height": 5169,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1023_3.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39978",
+            "artwork_image": "RCH 1023_3.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1023_4.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39978",
+            "artwork_image": "RCH 1023_4.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1023_5.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39978",
+            "artwork_image": "RCH 1023_5.jpg",
+            "height": 5443,
+            "stamps": [],
+            "width": 7285
+        },
+        "RCH 1023_6.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39978",
+            "artwork_image": "RCH 1023_6.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        },
+        "RCH 1023_7.jpg": {
+            "artwork_ID": "CH-001319-0.Obj.39978",
+            "artwork_image": "RCH 1023_7.jpg",
+            "height": 5484,
+            "stamps": [],
+            "width": 7320
+        }
+    },
+    "CH-001319-0.Obj.92643": {},
+    "CH-001319-0.Obj.92644": {}
+}
