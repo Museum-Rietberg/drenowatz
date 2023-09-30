@@ -13,10 +13,14 @@ TYPES_OF_CREATION = ['', 'Aufschrift', 'Kalligrafie', 'Provenienzmerkmal', 'Kolo
 
 
 def create_thumbnail(filename, thumb_filepath):
+    # Resize the image to max 200px high and 200px wide, only scaling down, not
+    # up. Use the whole image instead of cropping out an 'interesting' part.
     thumbnail = pyvips.Image.thumbnail(
         os.path.join(SEAL_IMAGES_PATH, filename),
         200,
         height=200,
+        size=pyvips.Size.DOWN,
+        crop=pyvips.Interesting.ALL
     )
     thumbnail.write_to_file(thumb_filepath)
 
