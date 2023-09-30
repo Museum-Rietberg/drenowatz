@@ -1,33 +1,10 @@
-{
-    "example": {
-        "Malerei": [
-            "CH-001319-0.Obj.RCH_1019"
-        ],
+[
+    {
+        "id": "CH-001319-0.Per.3822",
+        "thumbnail": "/thumbnails/placeholder.jpg",
         "name": "Zhao Lin",
-        "Provenienzmerkmal": [
-            "CH-001319-0.Obj.RCH_1173",
-            "CH-001319-0.Obj.RCH_1019",
-            "CH-001319-0.Obj.RCH_1020"
-        ],
-        "seals": [
-            "CH-001319-0.Obj.PM.00087",
-            "CH-001319-0.Obj.PM.00076",
-            "CH-001319-0.Obj.PM.00088",
-            "CH-001319-0.Obj.PM.00217",
-            "CH-001319-0.Obj.PM.00074",
-            "CH-001319-0.Obj.PM.00072",
-            "CH-001319-0.Obj.PM.00075",
-            "CH-001319-0.Obj.PM.00086",
-            "CH-001319-0.Obj.PM.00073"
-        ],
-        "Aufschrift": [
-            "CH-001319-0.Obj.RCH_1023"
-        ],
-        "Kalligrafie": [
-            "CH-001319-0.Obj.RCH_1023"
-        ],
-        "Kolophon": [
-            "CH-001319-0.Obj.RCH_1023"
-        ]
+        "number_seals": 0,
+        "number_works_painted": 1,
+        "number_works_sealed": 0
     }
-}
+]
