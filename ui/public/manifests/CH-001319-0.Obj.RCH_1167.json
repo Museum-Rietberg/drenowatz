@@ -9,10 +9,10 @@
   },
   "thumbnail": [
     {
-      "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/src/assets/thumbs/CH-001319-0.Obj.RCH_1167",
+      "id": "https://fra1.digitaloceanspaces.com/drenowatz/thumbnails/CH-001319-0.Obj.RCH_1167.jpg",
       "type": "Image",
-      "height": 300,
-      "width": 221,
+      "height": 400,
+      "width": 250,
       "format": "image/jpeg"
     }
   ],
@@ -32,7 +32,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.1.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.1.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -111,7 +111,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.1.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.1.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -198,7 +198,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.10.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.10.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -217,7 +217,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.10.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.10.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -244,7 +244,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.11.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.11.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -263,7 +263,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.11.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.11.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -290,7 +290,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.12.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.12.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -309,7 +309,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.12.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.12.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -336,7 +336,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.13.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.13.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -355,7 +355,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.13.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.13.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -382,7 +382,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.14.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.14.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -401,7 +401,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.14.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.14.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -428,7 +428,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.15.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.15.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -447,7 +447,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.15.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.15.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -474,7 +474,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.2.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.2.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -513,7 +513,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.2.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.2.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -560,7 +560,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.3.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.3.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -579,7 +579,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.3.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.3.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -606,7 +606,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.4.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.4.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -625,7 +625,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.4.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.4.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -652,7 +652,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.5.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.5.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -691,7 +691,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.5.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.5.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -738,7 +738,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.6.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.6.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -757,7 +757,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.6.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.6.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -784,7 +784,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.7.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.7.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -803,7 +803,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.7.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.7.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -830,7 +830,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.8.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.8.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -849,7 +849,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.8.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.8.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -876,7 +876,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.9.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.9.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -895,7 +895,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167.9.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167.9.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -922,7 +922,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_1.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_1.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -941,7 +941,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_1.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_1.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -968,7 +968,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_10.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_10.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -987,7 +987,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_10.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_10.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1014,7 +1014,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_11.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_11.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1033,7 +1033,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_11.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_11.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1060,7 +1060,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_12.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_12.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1079,7 +1079,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_12.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_12.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1106,7 +1106,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_13.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_13.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1125,7 +1125,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_13.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_13.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1152,7 +1152,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_14.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_14.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1171,7 +1171,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_14.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_14.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1198,7 +1198,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_2.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_2.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1217,7 +1217,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_2.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_2.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1244,7 +1244,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_3.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_3.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1263,7 +1263,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_3.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_3.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1290,7 +1290,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_4.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_4.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1309,7 +1309,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_4.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_4.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1336,7 +1336,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_5.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_5.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1355,7 +1355,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_5.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_5.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1382,7 +1382,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_6.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_6.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1401,7 +1401,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_6.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_6.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1428,7 +1428,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_7.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_7.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1447,7 +1447,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_7.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_7.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1474,7 +1474,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_8.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_8.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1493,7 +1493,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_8.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_8.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1520,7 +1520,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_9.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_9.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
@@ -1539,7 +1539,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images//resources/RCH_1167_9.jpg",
+                "id": "https://fra1.digitaloceanspaces.com/drenowatz/images/RCH%201167_9.jpg",
                 "type": "Image",
                 "height": 1800,
                 "width": 1200,
