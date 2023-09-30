@@ -1,3 +1,4 @@
+import argparse
 import json
 import os
 import re
@@ -6,8 +7,13 @@ import pyvips
 from s3_client import S3Client
 from source import get_kunstwerke, get_personen, get_stamps
 
+s3_client = S3Client()
+
+parser = argparse.ArgumentParser()
+parser.add_argument("source")
+
 PEOPLE_OVERVIEW_PATH = os.path.join("..", "ui", "public", "people_overview.json")
-SEAL_IMAGES_PATH = os.path.join("..", "data", "Bilder Drenowatz", "Bilder PMs")
+SEAL_IMAGES_PATH = parser.parse_args().source
 SEAL_INVENTARNUMMER_PATTERN = r".*PM( |\.){0,2}([0-9]{1,5})"
 SEAL_INVENTARNUMMER_PREFIX = "CH-001319-0.Obj.PM."
 THUMBNAIL_IMAGES_PATH = os.path.join("..", "ui", "public", "thumbnails")
@@ -17,6 +23,7 @@ SECONDARY_CREATION_TYPES = ['Aufschrift', 'Kalligrafie', 'Kolophon']
 def create_thumbnail(filename, thumb_filepath):
     # Resize the image to max 200px high and 200px wide, only scaling down, not
     # up. Use the whole image instead of cropping out an 'interesting' part.
+    print("Generating thumbnail for %s" % filename)
     thumbnail = pyvips.Image.thumbnail(
         os.path.join(SEAL_IMAGES_PATH, filename),
         200,
@@ -24,7 +31,12 @@ def create_thumbnail(filename, thumb_filepath):
         size=pyvips.Size.DOWN,
         crop=pyvips.Interesting.ALL
     )
-    thumbnail.write_to_file(thumb_filepath)
+    thumbnail.write_to_file("/tmp" + thumb_filepath)
+    s3_client.upload_file(
+        "/tmp/" + thumb_filepath,
+        Key="thumbnails/" + thumb_filepath,
+        ExtraArgs={"ACL": "public-read"},
+        )
 
 
 def _add_work(people_overview, creator, inventarnummer, creation_type, original_creator=False):
@@ -183,5 +195,8 @@ if __name__ == "__main__":
         for person in people_data.values()
     ]
 
-    with open(os.path.join(PEOPLE_OVERVIEW_PATH), "w") as f:
-        f.write(json.dumps(people_overview, indent=4))
+    s3_client.put(
+        Body=json.dumps(people_overview),
+        Key="people_overview.json",
+        ACL="public-read",
+    )
