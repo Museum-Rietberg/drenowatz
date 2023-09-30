@@ -21,9 +21,6 @@ export default {
 
 <template>
   <DefaultLayout>
-    <template #right>
-      <PersonFilter />
-    </template>
     <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
       <Card v-for="painting in paintings" v-bind="painting" />
     </div>

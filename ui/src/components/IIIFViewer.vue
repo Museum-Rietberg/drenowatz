@@ -18,7 +18,7 @@ export default {
   mounted() {
     mirador.viewer({
       id: "mirador",
-      windows: [{ manifestId: this.manifest }],
+      windows: [{ manifestId: this.manifest, maximized: true }],
       window: {
         allowClose: false,
         defaultSideBarPanel: "annotations",
@@ -32,5 +32,10 @@ export default {
 };
 </script>
 <template>
-  <div id="mirador" style="height: calc(100vh - 80px)" />
+  <div id="mirador" class="fixed w-screen" />
 </template>
+<style>
+#mirador {
+  height: calc(100vh - 80px);
+}
+</style>
