@@ -10,7 +10,7 @@
     "node": ">= 16"
   },
   "dependencies": {
-    "tify": "^0.28.1",
+    "mirador": "^3.3.0",
     "vue": "^2.7.7",
     "vue-router": "^3.5.4"
   },
