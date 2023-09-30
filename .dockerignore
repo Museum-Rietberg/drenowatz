@@ -1,0 +1,4 @@
+npm-debug.log*
+ui/node_modules
+data
+.venv

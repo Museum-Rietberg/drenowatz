@@ -4,8 +4,8 @@ services:
   ui:
     image: glamhack/drenowatz
     build:
-      context: ui
-      dockerfile: docker/Dockerfile
+      context: .
+      dockerfile: ui/docker/Dockerfile
     ports:
       - 3000:80
 
