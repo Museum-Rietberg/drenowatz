@@ -1,19 +1,20 @@
+import argparse
 import json
 import os.path
 import re
 
 import pyvips
 from s3_client import S3Client
+from source import get_kunstwerke
 
 s3_client = S3Client()
 
+parser = argparse.ArgumentParser()
+parser.add_argument("source")
+
 INVENTARNUMMER_PREFIX = "CH-001319-0.Obj.RCH_"
 INVENTARNUMMER_PATTERN = r"RCH ?([0-9]{4}[a-z]{0,1})"
-KUNSTWERKE_IMAGES_PATH = os.path.join(
-    "..", "data", "Bilder Drenowatz", "Bilder Kunstwerke"
-)
-OVERVIEW_PATH = os.path.join("..", "ui", "public", "overview.json")
-THUMBNAIL_IMAGES_PATH = os.path.join("..", "ui", "public", "thumbnails")
+KUNSTWERKE_IMAGES_PATH = parser.parse_args().source
 
 
 def create_thumbnail(filename, thumb_filepath):
@@ -62,8 +63,7 @@ def get_overview_data(inventarnummer, works):
 
 
 if __name__ == "__main__":
-    with open(os.path.join("..", "data", "MRZ_Kunstwerke.json")) as f:
-        kunstwerke = json.loads(f.read())
+    kunstwerke = get_kunstwerke()
     works = {work["Inventarnummer"]: work for work in kunstwerke}
 
     overview = []
@@ -86,7 +86,6 @@ if __name__ == "__main__":
         ):
             continue
 
-        thumb_filepath = os.path.join(THUMBNAIL_IMAGES_PATH, inventarnummer + ".jpg")
         create_thumbnail(filename, inventarnummer + ".jpg")
         work_data = get_overview_data(inventarnummer, works)
 
