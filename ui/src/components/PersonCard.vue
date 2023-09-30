@@ -31,7 +31,7 @@ export default {
 
 <template>
   <router-link
-    :to="{ name: 'iiifview', params: { id } }"
+    :to="{ name: 'personview', params: { id } }"
     class="max-w-sm rounded bg-white overflow-hidden"
   >
     <img class="w-full" :src="thumbnail" />
