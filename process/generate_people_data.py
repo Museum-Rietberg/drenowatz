@@ -16,7 +16,6 @@ PEOPLE_OVERVIEW_PATH = os.path.join("..", "ui", "public", "people_overview.json"
 SEAL_IMAGES_PATH = parser.parse_args().source
 SEAL_INVENTARNUMMER_PATTERN = r".*PM( |\.){0,2}([0-9]{1,5})"
 SEAL_INVENTARNUMMER_PREFIX = "CH-001319-0.Obj.PM."
-THUMBNAIL_IMAGES_PATH = os.path.join("..", "ui", "public", "thumbnails")
 SECONDARY_CREATION_TYPES = ['Aufschrift', 'Kalligrafie', 'Kolophon']
 
 
@@ -31,7 +30,7 @@ def create_thumbnail(filename, thumb_filepath):
         size=pyvips.Size.DOWN,
         crop=pyvips.Interesting.ALL
     )
-    thumbnail.write_to_file("/tmp" + thumb_filepath)
+    thumbnail.write_to_file("/tmp/" + thumb_filepath)
     s3_client.upload_file(
         "/tmp/" + thumb_filepath,
         Key="thumbnails/" + thumb_filepath,
@@ -169,11 +168,7 @@ if __name__ == "__main__":
                 seal_inventarnummer not in seals_to_thumbnail:
             continue
 
-        thumb_filepath = os.path.join(
-            THUMBNAIL_IMAGES_PATH,
-            seal_inventarnummer + ".jpg"
-        )
-        create_thumbnail(filename, thumb_filepath)
+        create_thumbnail(filename, seal_inventarnummer + ".jpg")
         processed_seals.append(seal_inventarnummer)
         _add_thumbnail(
             people_data,
@@ -200,3 +195,10 @@ if __name__ == "__main__":
         Key="people_overview.json",
         ACL="public-read",
     )
+
+    for person in people_data:
+        s3_client.put(
+            Body=json.dumps(people_data[person]),
+            Key="people/%s.json" % person,
+            ACL="public-read"
+        )
