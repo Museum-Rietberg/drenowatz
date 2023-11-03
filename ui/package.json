@@ -12,6 +12,7 @@
   "dependencies": {
     "mirador": "^3.3.0",
     "vue": "^2.7.7",
+    "vue-lazyload": "^3.0.0",
     "vue-router": "^3.5.4"
   },
   "devDependencies": {

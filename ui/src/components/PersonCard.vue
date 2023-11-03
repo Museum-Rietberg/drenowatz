@@ -39,7 +39,7 @@ export default {
     :to="{ name: 'personview', params: { id } }"
     class="max-w-sm rounded bg-white overflow-hidden"
   >
-    <img class="w-full h-36 object-cover" :src="thumbnailPath" />
+    <img class="w-full h-36 object-cover" :src="thumbnailPath" loading="lazy" />
     <div class="px-6 py-4">
       <div class="font-bold text-xl mb-2">{{ title }}</div>
     </div>

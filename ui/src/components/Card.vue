@@ -35,6 +35,7 @@ export default {
       <img
         class="w-full group-hover:scale-125 transition duration-200"
         :src="thumbnailPath"
+        loading="lazy"
       />
     </div>
     <div class="px-6 py-4 grow">
